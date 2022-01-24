@@ -1,0 +1,93 @@
+"Country"	"Continent"	"ISO"	"Population"	"Life_exp"	"Code"	"GDP"
+"Kuwait"	"Asia"	"KW"	2418393	80.3	"KWT"	70107.45766
+"Latvia"	"Europe"	"LV"	2274735	75.4	"LVA"	23080.36069
+"Lebanon"	"Asia"	"LB"	3874050	78.9	"LBN"	13089.0123
+"Lesotho"	"Africa"	"LS"	2022331	47.1	"LSO"	2770.19959
+"Liberia"	"Africa"	"LR"	3042004	63.2	"LBR"	784.5813313
+"Libya"	"Africa"	"LY"	5900754	74.1	"LBY"	NA
+"Liechtenstein"	"Europe"	"LI"	33987	NA	"LIE"	NA
+"Lithuania"	"Europe"	"LT"	3585906	75.2	"LTU"	26970.88241
+"Luxembourg"	"Europe"	"LU"	474413	82.2	"LUX"	93899.6565
+"Madagascar"	"Africa"	"MG"	18595469	63.5	"MDG"	1376.260108
+"Malawi"	"Africa"	"MW"	13013926	60.5	"MWI"	1111.648704
+"Malaysia"	"Asia"	"MY"	24385858	75.3	"MYS"	25311.90676
+"Maldives"	"Asia"	"MV"	359008	80	"MDV"	11993.91077
+"Mali"	"Africa"	"ML"	11716829	60.2	"MLI"	1904.856967
+"Malta"	"Europe"	"MT"	400214	82.1	"MLT"	32719.94634
+"Marshall Islands"	"Oceania"	"MH"	60422	66.9	"MHL"	3673.153775
+"Mauritania"	"Africa"	"MR"	3177388	69.7	"MRT"	NA
+"Mauritius"	"Africa"	"MU"	1240827	74.5	"MUS"	18864.10567
+"Mexico"	"Americas"	"MX"	107449525	75.9	"MEX"	16490.3458
+"Moldova"	"Europe"	"MD"	4466706	73.9	"MDA"	4742.019069
+"Monaco"	"Europe"	"MC"	32543	NA	"MCO"	NA
+"Mongolia"	"Asia"	"MN"	2832224	67.1	"MNG"	11477.82668
+"Morocco"	"Africa"	"MA"	33241259	74.6	"MAR"	7364.766283
+"Mozambique"	"Africa"	"MZ"	19686505	57.1	"MOZ"	1119.697785
+"Namibia"	"Africa"	NA	2044147	64.2	"NAM"	9778.405179
+"Nauru"	"Oceania"	"NR"	13287	NA	"NRU"	12270.29448
+"Nepal"	"Asia"	"NP"	28287147	69.7	"NPL"	2312.394345
+"Netherlands"	"Europe"	"NL"	16491461	81.3	"NLD"	46353.85191
+"New Caledonia"	"Oceania"	"NC"	219246	76.74	"NCL"	NA
+"New Zealand"	"Oceania"	"NZ"	4076140	81.4	"NZL"	35158.64147
+"Nicaragua"	"Americas"	"NI"	5570129	78	"NIC"	4884.150761
+"Niger"	"Africa"	"NE"	12525094	61	"NER"	897.3953205
+"Nigeria"	"Africa"	"NG"	131859731	64.6	"NGA"	5638.887379
+"Northern Mariana Islands"	"Oceania"	"MP"	82459	76.2	"MNP"	NA
+"Norway"	"Europe"	"NO"	4610820	82	"NOR"	63649.50532
+"Oman"	"Asia"	"OM"	3102229	77.2	"OMN"	37541.07548
+"Pakistan"	"Asia"	"PK"	165803560	65.9	"PAK"	4706.184733
+"Palau"	"Oceania"	"PW"	20579	NA	"PLW"	14385.96881
+"Panama"	"Americas"	"PA"	3191319	78.2	"PAN"	20885.33945
+"Papua New Guinea"	"Oceania"	"PG"	5670544	60.9	"PNG"	NA
+"Paraguay"	"Americas"	"PY"	6506464	74.4	"PRY"	8639.281645
+"Peru"	"Americas"	"PE"	28302603	79.5	"PER"	11767.52212
+"Philippines"	"Asia"	"PH"	89468677	71	"PHL"	6938.210302
+"Poland"	"Europe"	"PL"	38536869	77.6	"POL"	25322.53843
+"Portugal"	"Europe"	"PT"	10605870	80.8	"PRT"	26548.61924
+"Puerto Rico"	"Americas"	"PR"	3927188	78.5	"PRI"	NA
+"Qatar"	"Asia"	"QA"	885359	79.7	"QAT"	132937.6663
+"Romania"	"Europe"	"RO"	22303552	75.2	"ROU"	20483.77531
+"Russia"	"Europe"	"RU"	142893540	71	"RUS"	24124.33236
+"Rwanda"	"Africa"	"RW"	8648248	65.9	"RWA"	1655.175355
+"Samoa"	"Oceania"	"WS"	176908	73.2	"WSM"	5574.067711
+"San Marino"	"Europe"	"SM"	29251	NA	"SMR"	NA
+"Saudi Arabia"	"Asia"	"SA"	27019731	79.5	"SAU"	50283.93359
+"Senegal"	"Africa"	"SN"	11987121	65.3	"SEN"	2273.624187
+"Serbia"	"Europe"	"RS"	9396411	76.2	"SRB"	13277.75173
+"Seychelles"	"Africa"	"SC"	81541	74.1	"SYC"	25524.955
+"Sierra Leone"	"Africa"	"SL"	6005250	57.1	"SLE"	1473.913005
+"Singapore"	"Asia"	"SG"	4492150	82	"SGP"	80191.53931
+"Slovenia"	"Europe"	"SI"	2010347	80.9	"SVN"	29097.34277
+"Solomon Islands"	"Oceania"	"SB"	552438	64	"SLB"	2067.129782
+"Somalia"	"Africa"	"SO"	8863338	54.2	"SOM"	NA
+"South Africa"	"Africa"	"ZA"	44187637	61.3	"ZAF"	12393.25546
+"Spain"	"Europe"	"ES"	40397842	82.6	"ESP"	32218.54182
+"Sri Lanka"	"Asia"	"LK"	20222240	77.6	"LKA"	11047.66697
+"Sudan"	"Africa"	"SD"	41236378	67.5	"SDN"	4121.137015
+"Suriname"	"Americas"	"SR"	439117	72	"SUR"	15687.23164
+"Swaziland"	"Africa"	"SZ"	1136334	51.8	"SWZ"	8122.04947
+"Sweden"	"Europe"	"SE"	9016596	82.1	"SWE"	45488.29166
+"Switzerland"	"Europe"	"CH"	7523934	83	"CHE"	56517.45244
+"Syria"	"Asia"	"SY"	18881361	68.2	"SYR"	NA
+"Tajikistan"	"Asia"	"TJ"	7320815	72.4	"TJK"	2661.384595
+"Tanzania"	"Africa"	"TZ"	37445392	64.1	"TZA"	2510.03566
+"Thailand"	"Asia"	"TH"	64631595	74.7	"THA"	15346.64689
+"Togo"	"Africa"	"TG"	5548702	61.5	"TGO"	1371.564167
+"Tonga"	"Oceania"	"TO"	114689	71.5	"TON"	5198.345314
+"Trinidad and Tobago"	"Americas"	"TT"	1065842	72.4	"TTO"	31283.55002
+"Tunisia"	"Africa"	"TN"	10175014	77.6	"TUN"	10769.93325
+"Turkey"	"Asia"	"TR"	70413958	79.2	"TUR"	19460.48213
+"Turkmenistan"	"Asia"	"TM"	5042920	70	"TKM"	15527.40393
+"Tuvalu"	"Oceania"	"TV"	11810	NA	"TUV"	3687.484226
+"Uganda"	"Africa"	"UG"	28195754	61.3	"UGA"	1738.4625
+"Ukraine"	"Europe"	"UA"	46710816	71.5	"UKR"	7456.930217
+"United Arab Emirates"	"Asia"	"AE"	2602713	75.4	"ARE"	65716.98396
+"United Kingdom"	"Europe"	"GB"	60609153	81	"GBR"	38509.21416
+"United States"	"Americas"	"US"	298444215	79.1	"USA"	52704.19888
+"Uruguay"	"Americas"	"UY"	3431932	76.8	"URY"	19952.25325
+"Uzbekistan"	"Asia"	"UZ"	27307134	71.8	"UZB"	5716.495922
+"Vanuatu"	"Oceania"	"VU"	208869	64.9	"VUT"	2806.270013
+"Venezuela"	"Americas"	"VE"	25730435	74.8	"VEN"	NA
+"Vietnam"	"Asia"	"VN"	84402966	75.4	"VNM"	5667.410939
+"Zambia"	"Africa"	"ZM"	11502010	56.7	"ZMB"	3602.326756
+"Zimbabwe"	"Africa"	"ZW"	12236805	59.3	"ZWE"	1677.969628
