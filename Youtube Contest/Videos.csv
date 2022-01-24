@@ -1,0 +1,2185 @@
+videoID;title;description;publishedAt;videoUrl;thumbnailURL;duration;caption;definition
+"wUzZChTlzdE";"Refresh All Your Power BI Datasets with Python";"In this Power BI tutorial, I show you how to run a Python script to refresh all of your datasets across all of your workspaces! This trick uses the Power BI API to kick of the refresh of each dataset. Click a single button and refresh every one of your datasets!
+
+Blog post:
+https://bielite.com/blog/refresh-all-datasets-python/
+
+Running Python Scripts in Power BI:
+https://www.youtube.com/watch?v=EmALxO7V7y0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-01-28T15:00:20Z";"https://www.youtube.com/watch?v=wUzZChTlzdE";"https://i.ytimg.com/vi/wUzZChTlzdE/default.jpg";"10M25S";"false";"hd"
+"x-1NiopFC9g";"Power BI - Customize and Export Themes";"In this Power BI tutorial, learn how to import, customize, and export themes directly from Power BI desktop! The December 2019 Power BI update added amazing functionality to allow users to extend Power BI reports visually by the use of easily customizable themes.
+
+Blog Post:
+https://bielite.com/blog/customizing-and-exporting-power-bi-themes/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-12-19T14:11:37Z";"https://www.youtube.com/watch?v=x-1NiopFC9g";"https://i.ytimg.com/vi/x-1NiopFC9g/default.jpg";"4M8S";"false";"hd"
+"5XxUVbLVdQE";"Power BI - Row-level Security (RLS) for Measures";"In this Power BI tutorial, we walk through how to set up row-level security (RLS) on measures or calculations. This is a great trick to add to your Power BI tool belt that allows you to show or hide measures depending on the role of the user viewing the report. 
+
+Blog post:
+https://bielite.com/blog/row-level-security-on-measures-in-power-bi/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/szjbji1e89h3e6x/RLS%20for%20Measures.pbix?dl=0
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-11-19T15:21:03Z";"https://www.youtube.com/watch?v=5XxUVbLVdQE";"https://i.ytimg.com/vi/5XxUVbLVdQE/default.jpg";"6M1S";"false";"hd"
+"yP791KGnrek";"Power BI - Visualizing Old vs New Data (Conditional Transparency)";"Check out this awesome Power BI tutorial on how to show new data vs old data! I built out this solution after a friend of mine, Reid Havens over at Havens Consulting (link below) was inquiring about a similar visual. With this method, you can effectively show data decay over time. This way new data is weighed more than old data and it is obvious with the conditional formatting.
+
+Link to Blog:
+https://bielite.com/blog/visualizing-old-vs-new-data-in-power-bi/
+
+Link to Reid's Channel:
+https://www.youtube.com/channel/UCjlfQwqb-0S40XQ8seYPLSw
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Link to PBIX:
+https://www.dropbox.com/s/nbsvbv8p0a2se90/Visualizing%20Old%20and%20New%20Data.pbix?dl=0
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-11-07T13:26:44Z";"https://www.youtube.com/watch?v=yP791KGnrek";"https://i.ytimg.com/vi/yP791KGnrek/default.jpg";"12M23S";"false";"hd"
+"X47XlpkMfe8";"Building a Power BI Dashboard/Report from Scratch (Beginner & Advanced)";"Hey everybody! Parker here. Recently I gave a webinar on basic Power BI and DAX principles for Tangent Solutions. If you want to build Power BI dashboards and reports but don't know where to start, check out this video! We go through every process of basic Power BI Dashboard development.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-08-14T14:00:09Z";"https://www.youtube.com/watch?v=X47XlpkMfe8";"https://i.ytimg.com/vi/X47XlpkMfe8/default.jpg";"46M18S";"false";"hd"
+"2kmFfbOeFJg";"Showing Specific Timezones in Power BI Service (Last Refreshed Time)";"Hey guys! Parker here. Here's a quick Power BI tutorial on how to show a certain timezone for a last refreshed date in Power BI Service. The default method of using the NOW() function fails when displayed in the cloud because it will always revert to UTC time. This method will allow you to show whichever timezone you want! Check it out!
+
+Link to PBIX:
+https://www.dropbox.com/s/7ygjucx8jmtnng0/Refresh%20Timezone.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-07-09T14:32:28Z";"https://www.youtube.com/watch?v=2kmFfbOeFJg";"https://i.ytimg.com/vi/2kmFfbOeFJg/default.jpg";"7M29S";"false";"hd"
+"u7SyqTpLIJc";"Appending Historical Data to New Data with Dataflows (Maxim Zelensky)";"In this video, Microsoft MVP Maxim Zelensky from http://excel-inside.pro/ shares his wisdom on how to an Incremental Refresh policy on a Power BI Pro account! Since true incremental refresh is only available on Power BI Premium, Maxim's method involving Dataflows is truly game-changing! Check it out!
+
+Maxim's Blog:
+http://excel-inside.pro/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-03-19T14:00:04Z";"https://www.youtube.com/watch?v=u7SyqTpLIJc";"https://i.ytimg.com/vi/u7SyqTpLIJc/default.jpg";"12M15S";"false";"hd"
+"-kOvK7IV3sg";"Power BI - Filtering Visuals on a Different Scope than Selected Slicer";"What's up guys! Parker here. I have a really cool Power BI tutorial for you today showing you how to filter visuals on a different scope than the selected slicer. This is a really expert trick that you will want to add to your Power BI toolbox!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-01-08T16:00:00Z";"https://www.youtube.com/watch?v=-kOvK7IV3sg";"https://i.ytimg.com/vi/-kOvK7IV3sg/default.jpg";"5M28S";"false";"hd"
+"bU35LnSfo70";"Power BI: 3 Minute Tips - Bookmarks";"In this tutorial, we learn how to use bookmarks to save the state of our Power BI report!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-08T20:33:32Z";"https://www.youtube.com/watch?v=bU35LnSfo70";"https://i.ytimg.com/vi/bU35LnSfo70/default.jpg";"3M20S";"false";"hd"
+"8D6IbflW5OI";"3 Ways to Add Emojis in Power BI";"In this quick Power BI tutorial, I will show you three different ways that you can add emojis to your Power BI reports and dashboards! 
+
+Blog Post:
+https://bielite.com/blog/how-to-add-emojis-to-a-power-bi-report/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-01-14T14:00:00Z";"https://www.youtube.com/watch?v=8D6IbflW5OI";"https://i.ytimg.com/vi/8D6IbflW5OI/default.jpg";"3M11S";"false";"hd"
+"qeWN5gq9EE8";"Power BI - Showing Data Labels as a Percent";"In this Power BI tutorial, I show you how to set up your data labels on a bar or line chart to show % instead of the actual value in the Y-axis. This is an awesome trick that allows you to show multiple ideas on the same chart.
+
+Blog Post:
+https://bielite.com/blog/percent-data-labels/
+
+Link to PBIX:
+https://www.dropbox.com/s/qfiln4txatp3egc/%25%20Data%20Labels.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-12-04T14:24:23Z";"https://www.youtube.com/watch?v=qeWN5gq9EE8";"https://i.ytimg.com/vi/qeWN5gq9EE8/default.jpg";"7M10S";"false";"hd"
+"DWjbd7NPUCM";"Power BI - CUSTOM Date Formats (MM/DD/YYYY to DD/MM/YYYY)";"Hey everyone! Parker here. Check out this exciting Power BI tutorial on how convert your date formats from Month/Day/Year to Day/Month/Year or any other format you can think of! You can now do this out of the box in Power BI without the need to convert your date to text!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-09-11T14:00:05Z";"https://www.youtube.com/watch?v=DWjbd7NPUCM";"https://i.ytimg.com/vi/DWjbd7NPUCM/default.jpg";"2M49S";"false";"hd"
+"XKmTknbusnY";"Power BI - Dynamic Reference Line on X-Axis";"Hey everybody! Parker here. Check out this interesting Power BI tutorial on how to create a vertical reference line on your x-axis in a line chart! This is very easy to set up and only takes a few minutes!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-08-07T14:16:08Z";"https://www.youtube.com/watch?v=XKmTknbusnY";"https://i.ytimg.com/vi/XKmTknbusnY/default.jpg";"8M7S";"false";"hd"
+"lOdLJx1zL7Y";"Power BI - Animate Historical Trends Over Time";"Hey guys! Parker here. Check out this awesome Power BI tutorial on how to animate your historical data over time. This method shows the historical trend while appending new dates (years) to your X-axis. It's a bit hard to explain but amazing when executed in Power BI. Check it out!
+
+Link to PBIX:
+https://www.dropbox.com/s/xtd2w77qomdwvfb/Animated%20Data%20Over%20Time.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-06-18T14:00:07Z";"https://www.youtube.com/watch?v=lOdLJx1zL7Y";"https://i.ytimg.com/vi/lOdLJx1zL7Y/default.jpg";"7M25S";"false";"hd"
+"_p9E8fiDRDw";"Power BI - Dynamic Previous Period Metrics based on Date Hierarchy Level";"Hey guys! Parker here. I have an awesome Power BI tutorial on how to calculate the previous period's sales DYNAMICALLY based on the level of the date hierarchy that the user is drilled into! This is a really cool trick that definitely deserves a watch!
+
+Link to PBIX:
+https://www.dropbox.com/s/ycco3lgek3v75my/Dynamic%20Previous%20Period%20Sales.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-06-04T14:00:16Z";"https://www.youtube.com/watch?v=_p9E8fiDRDw";"https://i.ytimg.com/vi/_p9E8fiDRDw/default.jpg";"8M47S";"false";"hd"
+"4xapOrfLvbg";"Power BI - Custom Sorting in 3 Easy Steps!";"Hey guys! Parker here. Check out this quick Power BI tutorial on how to set a custom sort order for your charts, legends, or values! This is extremely easy to do in Power BI and definitely something you should add to your toolbelt!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-05-07T14:00:00Z";"https://www.youtube.com/watch?v=4xapOrfLvbg";"https://i.ytimg.com/vi/4xapOrfLvbg/default.jpg";"4M4S";"false";"hd"
+"JHuH7iGcPoY";"Power BI - Drillthrough to Another Report for Increased Security";"Hey guys! Parker here. I just wanted to bring you a quick Power BI tutorial on how to set up drillthrough from one report to another. This functionality was released as part of the April 2019 Power BI update. This new drill through functionality allows you to share your reports more effectively and securely by allowing you to only share reports with those who need to see it, but allowing you to drill from one report to another if access is granted. Check it out!
+
+Link to PBIXs:
+https://www.dropbox.com/s/adesrwj2lew9x3t/Summary%20Report.pbix?dl=0
+https://www.dropbox.com/s/adesrwj2lew9x3t/Summary%20Report.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-04-23T14:27:59Z";"https://www.youtube.com/watch?v=JHuH7iGcPoY";"https://i.ytimg.com/vi/JHuH7iGcPoY/default.jpg";"6M16S";"false";"hd"
+"T7ckdeGOhnU";"Power BI - REAL Incremental Refresh (Maxim Zelensky)";"Maxim has figured out how to perform a Classic Incremental Refresh for Power BI Pro users with DataFlows!! This is a truly impressive accomplishment. Take a quick look how to set it up!
+
+Maxim's Blog:
+http://excel-inside.pro/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-03-28T14:00:06Z";"https://www.youtube.com/watch?v=T7ckdeGOhnU";"https://i.ytimg.com/vi/T7ckdeGOhnU/default.jpg";"10M19S";"false";"hd"
+"S2k2dxf_QWc";"Sending Power BI Subscriptions to External Users with Power Automate";"In this Power BI tutorial, we learn how to use Power Automate to forward email subscriptions to users outside of your organization. This is extremely useful because you can not set up subscriptions for external users outside of your organization natively in Power BI. Check out the blog post for even more detail!
+
+Blog Post:
+https://bielite.com/blog/setting-up-power-bi-subscriptions-for-external-users/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-01-07T14:00:08Z";"https://www.youtube.com/watch?v=S2k2dxf_QWc";"https://i.ytimg.com/vi/S2k2dxf_QWc/default.jpg";"6M12S";"false";"hd"
+"7vCD8Zu686Q";"Power BI - Refresh Dataset by Button with Power Automate";"In this Power BI and Power Automate tutorial, we learn how to refresh a Power BI dataset by allowing the user to click a button inside of a report! Now all of your end users have the power to refresh a dataset instead of only admins! This trick uses Power Automate and WrapAPI to accomplish the refresh.
+
+Blog Post:
+https://bielite.com/blog/refreshing-a-power-bi-dataset-by-button-click-with-power-automate
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-12-12T13:13:59Z";"https://www.youtube.com/watch?v=7vCD8Zu686Q";"https://i.ytimg.com/vi/7vCD8Zu686Q/default.jpg";"7M20S";"false";"hd"
+"AJxCCfFmLTQ";"DAX for Power BI - Percent of Subtotal (% of Parent Category)";"In this Power BI tutorial, I show you how to write a single DAX measure to effectively visualize a % of subtotal calculation. Using the new decomposition tree visual or matrix visual, you can easily see the percentage of subtotal from the previous level of the hierarchy.
+
+Link to Blog Post:
+https://bielite.com/blog/calculating-percent-of-subtotal/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/83dzf12nmic1430/Percent%20of%20Subtotal.pbix?dl=0
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-11-27T14:46:21Z";"https://www.youtube.com/watch?v=AJxCCfFmLTQ";"https://i.ytimg.com/vi/AJxCCfFmLTQ/default.jpg";"7M36S";"false";"hd"
+"QFADxSyXwwY";"DAX for Power BI - Week Start Date & Week End Date";"Learn how to calculate the ""Week Starting On"" and ""Week Ending On"" date in DAX! This quick Power BI tutorial for beginners will teach you how to set up these calculated columns in just a single step!
+
+Blog Post:
+https://bielite.com/blog/week-start-date-power-bi-dax/
+
+Link to PBIX:
+https://www.dropbox.com/s/vkqpp75a6dqsn96/Week%20Start%20Date.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-11-12T13:46:18Z";"https://www.youtube.com/watch?v=QFADxSyXwwY";"https://i.ytimg.com/vi/QFADxSyXwwY/default.jpg";"5M18S";"false";"hd"
+"iyGBZsLxe54";"REAL TIME Reports in Power BI! (Including Power BI Free & Pro)";"Hey everybody! Parker here. Check out this video as I show you how to set up a real-time Power BI report! This is an amazing trick that was inspired by the October 2019 Power BI update, but it doesn't actually use the newly-released functionality. You must watch this video!
+
+Professional Power BI Consulting:
+https://bielite.com
+
+Link to PBIX:
+https://www.dropbox.com/s/xq00pj97w6s9s6w/Real-Time%20Play%20Axis.pbix?dl=0
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-10-15T13:06:17Z";"https://www.youtube.com/watch?v=iyGBZsLxe54";"https://i.ytimg.com/vi/iyGBZsLxe54/default.jpg";"13M24S";"false";"hd"
+"IURWlw2_6Ks";"Power BI - Report Page Tooltip Over ANY Visual";"Hey everyone! Parker here. Check out this awesome Power BI tutorial on how to set up a Report Page Tooltip over any visual, including custom visuals! This trick is truly amazing, so enjoy!
+
+Video on default report page tooltips:
+https://www.youtube.com/watch?v=ZilC968Fc9c
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-09-18T14:00:05Z";"https://www.youtube.com/watch?v=IURWlw2_6Ks";"https://i.ytimg.com/vi/IURWlw2_6Ks/default.jpg";"5M27S";"false";"hd"
+"WSnB5y2JXv8";"Power BI - Showing a List of Items in a Table by Category";"Hey guys! Parker here. Check out this interesting Power BI tutorial on how to list items in a table based on different categories. This method makes use of the matrix visual in Power BI and can be used to list out text or numerical data! This trick is a bit difficult to explain without an example, so watch the video and let me know if you think it will be useful for you!
+
+Link to PBIX:
+https://www.dropbox.com/s/qs608vquar3xq6s/Showing%20a%20List%20of%20Items%20in%20a%20Table.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-07-23T14:00:02Z";"https://www.youtube.com/watch?v=WSnB5y2JXv8";"https://i.ytimg.com/vi/WSnB5y2JXv8/default.jpg";"13M43S";"false";"hd"
+"wG3J8lO9d5I";"Power BI - Dynamically Expanding Tables and Records with Power Query (Expand All Columns)";"Hey guys! Parker here! Check out this quick Power BI/Power Query tutorial on how to expand your tables, lists, and records dynamically! Most methods require you to hard-code the column names that you want to expand, but this trick will allow you to expand all columns. This is helpful because changes to your data source will not cause your Power Query steps to fail. Check it out!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-07-02T14:00:06Z";"https://www.youtube.com/watch?v=wG3J8lO9d5I";"https://i.ytimg.com/vi/wG3J8lO9d5I/default.jpg";"10M5S";"false";"hd"
+"L1govVEBxDo";"Power BI - Creating a Custom Venn Diagram";"Hey everyone! Parker here. Check out this quick Power BI tutorial on how to create a custom Venn Diagram with a little bit of DAX! This Venn Diagram allows you to show overlap or intersection in your datasets easily and visually.
+
+Elite Power BI Consultants:
+https://bielite.com/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/d0ug95xadrlzdon/VennDiagram.pbix?dl=0
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-10-30T13:15:28Z";"https://www.youtube.com/watch?v=L1govVEBxDo";"https://i.ytimg.com/vi/L1govVEBxDo/default.jpg";"10M51S";"false";"hd"
+"i1kCHZEhnEY";"7 Tips & Tricks for Stunning Power BI Reports!";"Hi everybody! Parker here. Check out this webinar that I recently gave showcasing 7 Power BI tips and tricks that you should add to your Power BI dashboards and reports. These tricks include bookmarks, drillthrough, hierarchies, dynamic measures, forecasting, row-level security (RLS), and subscriptions.
+
+Professional Power BI Services:
+https://bielite.com
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-10-03T15:23:57Z";"https://www.youtube.com/watch?v=i1kCHZEhnEY";"https://i.ytimg.com/vi/i1kCHZEhnEY/default.jpg";"44M5S";"false";"hd"
+"BY0WV05IeNk";"Power BI - Convert Timestamp to Datetime";"Hi everybody! Parker here. Check out this quick tip on how to convert a Unix timestamp to datetime. Hope you enjoy!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-08-27T14:00:00Z";"https://www.youtube.com/watch?v=BY0WV05IeNk";"https://i.ytimg.com/vi/BY0WV05IeNk/default.jpg";"3M19S";"false";"hd"
+"uq5PQg_hZro";"Power BI - Burndown Chart (Fixed X-Axis)";"Hey guys! Parker here. Here's a fun trick on how to create a dynamic burndown chart in Power BI! Burndown charts are great in case you want to show progress toward a goal or want to hook Power BI to TFS data. This technique is sometimes tricky to set up because you need a static X-Axis even when you don't have data for certain dates. Check it out!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-04-02T14:16:17Z";"https://www.youtube.com/watch?v=uq5PQg_hZro";"https://i.ytimg.com/vi/uq5PQg_hZro/default.jpg";"10M21S";"false";"hd"
+"GvKYUgka_4Y";"Power BI - Combining Multiple Sheets From Multiple Files in Power Query";"Hey guys! Here's another awesome video from Reid Havens over at the Havens Consulting channel! Check out this sweet trick and learn how to utilize Power Query’s folder combine data source to connect to a folder of Excel files, each containing multiple sheets that need to be combined. 
+
+Link to Reid's Channel!
+https://www.youtube.com/channel/UCjlfQwqb-0S40XQ8seYPLSw
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-03-12T14:00:01Z";"https://www.youtube.com/watch?v=GvKYUgka_4Y";"https://i.ytimg.com/vi/GvKYUgka_4Y/default.jpg";"8M5S";"false";"hd"
+"ksSg7hhMDbU";"Power BI - Highlighting Positive and Negative Values in a Bar Chart";"Hey guys! Parker here. Here's a quick Power BI tutorial on how to show positive bars as green and negative bars as red in a bar chart.  This uses the same conditional formatting functionality as we've seen in the past. It only takes a second to set up, so let's get started!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-11-28T15:00:06Z";"https://www.youtube.com/watch?v=ksSg7hhMDbU";"https://i.ytimg.com/vi/ksSg7hhMDbU/default.jpg";"2M14S";"false";"hd"
+"duMSovyosXE";"DAX for Power BI - Last 12 Months from Selected Date (Trailing 12 Months TTM)";"Hey guys! Parker here. In this Power BI tutorial I will show you how to show the previous 12 months of data when the user clicks on a single date selection. This is kind of hard to explain so let's jump into the demo!
+
+Link to PBIX:
+https://www.dropbox.com/s/stqp6wlooa7ozcq/TTM.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-11-21T15:00:03Z";"https://www.youtube.com/watch?v=duMSovyosXE";"https://i.ytimg.com/vi/duMSovyosXE/default.jpg";"10M41S";"false";"hd"
+"4V-yeg4fva0";"Power BI - Pop-up Message Box to Users with Python!";"Hey guys! Parker here. Check out this cool trick on how to display a message box to your users every time they refresh or change a slicer selection! This is seriously awesome and can be useful if you would like to provide some feedback to those who are running your Power BI reports.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-10-09T14:08:46Z";"https://www.youtube.com/watch?v=4V-yeg4fva0";"https://i.ytimg.com/vi/4V-yeg4fva0/default.jpg";"6M32S";"false";"hd"
+"P2hu_VsRVfM";"[OUTDATED, see description] Power BI - Date Formatting (MM/DD/YYYY to DD/MM/YYYY)";"Power BI has been updated and this tip is now outdated! See this link for the up-to-date solution: https://youtu.be/DWjbd7NPUCM
+
+Hey guys, Parker here! Wanted to share a quick tutorial on how to show dates in different formats. This can be helpful if you are building a Power BI report for someone in a different country than your own! Hope you  like the tutorial.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-09-18T14:00:01Z";"https://www.youtube.com/watch?v=P2hu_VsRVfM";"https://i.ytimg.com/vi/P2hu_VsRVfM/default.jpg";"3M19S";"false";"hd"
+"syzA3PZx3qk";"Dynamically Embed a Web Page in a Power BI Report";"Hey guys, Parker Here! Watch this video and learn how you can embed web pages in your Power BI report to allow more interactivity than ever! Would you like to link to another website but keep users inside of your Power BI report? Then try this out!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-09-04T14:00:11Z";"https://www.youtube.com/watch?v=syzA3PZx3qk";"https://i.ytimg.com/vi/syzA3PZx3qk/default.jpg";"9M30S";"false";"hd"
+"Z40Txux1Lxk";"Power BI - Introduction to Python Visuals";"In this tutorial, I'll show you how to create your very own Python Visuals! Python is a robust language that can be used in a lot of different plotting and machine learning areas. Now is a great time to learn how to write Python code within Power BI!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-08-28T14:00:08Z";"https://www.youtube.com/watch?v=Z40Txux1Lxk";"https://i.ytimg.com/vi/Z40Txux1Lxk/default.jpg";"13M5S";"false";"hd"
+"8JKgW9mS9WM";"Power BI - Document Your Model with Field Properties";"In this video, I show you how to use Field Properties to add documentation to your data model!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-08-02T14:00:01Z";"https://www.youtube.com/watch?v=8JKgW9mS9WM";"https://i.ytimg.com/vi/8JKgW9mS9WM/default.jpg";"3M5S";"false";"hd"
+"Ax-jgwnolNI";"R Visuals in Power BI - 3D Scatter Plot";"In this video, I show you how to create a 3-dimensional representation of a scatter plot that you can even rotate via a slicer selection! R Visuals allow for a lot of flexibility over the built-in visuals while requiring just a little bit of code.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-07-10T14:00:00Z";"https://www.youtube.com/watch?v=Ax-jgwnolNI";"https://i.ytimg.com/vi/Ax-jgwnolNI/default.jpg";"8M56S";"false";"hd"
+"kJ37glO4wBY";"Power BI - Column from Examples (Codeless Data Transformation)";"Power BI has this awesome feature that allows you to perform data transformations without writing any M or DAX code! You can create a ""Column from Examples"" simply by typing the result that you want to see and Power BI will do the rest.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-06-26T14:00:04Z";"https://www.youtube.com/watch?v=kJ37glO4wBY";"https://i.ytimg.com/vi/kJ37glO4wBY/default.jpg";"7M1S";"false";"hd"
+"0v8DZuyM2GU";"DAX for Power BI - Predicting Days Until a Goal (Linear Regression)";"In this video, we learn how to calculate a linear regression line. Coupled with What If Analysis to set a goal, we can predict how long it will take to reach that goal. This is a fun and fairly advanced problem that can be used for some simple predictive analytics.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Daniil's Blog Post:
+https://xxlbi.com/blog/simple-linear-regression-in-dax/";"2018-06-12T14:00:01Z";"https://www.youtube.com/watch?v=0v8DZuyM2GU";"https://i.ytimg.com/vi/0v8DZuyM2GU/default.jpg";"16M48S";"false";"hd"
+"_bdHe3z_fVU";"DAX for Power BI - (VLOOKUP) Search if Text Contains Value from Another Table";"In this tutorial, I show you how to perform a VLOOKUP on your Power BI columns. We can take a text string from one table, and search for it in another. This is useful in case you need to pair text from different tables for any reason.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-05-25T15:00:03Z";"https://www.youtube.com/watch?v=_bdHe3z_fVU";"https://i.ytimg.com/vi/_bdHe3z_fVU/default.jpg";"6M7S";"false";"hd"
+"gc2X5L4Y5Xg";"Power BI - Dynamically Switch Between Linear and Log Axis Scale";"In this video, I will show you how you can dynamically switch between a linear and log axis in your visualizations. This is handy when you have skewed data that could benefit from a log axis view, but you want to allow the user the ability to view in whatever scale they prefer.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-05-17T14:00:04Z";"https://www.youtube.com/watch?v=gc2X5L4Y5Xg";"https://i.ytimg.com/vi/gc2X5L4Y5Xg/default.jpg";"6M23S";"false";"hd"
+"fcv3CHBItJo";"Power BI - Traffic Light Indicator in a Table";"Because of the May 2018 Power BI update, creating a traffic light KPI in a table is easier than ever. You just need to conditionally format the font color of a UNICHAR circle based on another column! In this video, I will show you how to make this stop light KPI in both a calculated column and a measure.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-05-10T13:00:06Z";"https://www.youtube.com/watch?v=fcv3CHBItJo";"https://i.ytimg.com/vi/fcv3CHBItJo/default.jpg";"5M54S";"false";"hd"
+"bDPGm3rP8WU";"Power BI - DirectQuery: A Look Under the Hood";"In this video, we take a look at how DirectQuery executes queries against our SQL Server backend. It becomes apparent that DirectQuery can send a lot of traffic to your datasource depending on the visualizations shown and calculations performed.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-05-03T12:45:46Z";"https://www.youtube.com/watch?v=bDPGm3rP8WU";"https://i.ytimg.com/vi/bDPGm3rP8WU/default.jpg";"10M53S";"false";"hd"
+"EmALxO7V7y0";"Running Python Scripts in Power BI";"What's up guys, Parker here. In this tutorial, I show you how to run Python scripts to perform transformations on your dataset. Python is an extremely versatile language that can be used for all sorts of data processing and cleaning! Note: as of the date of posting, Python is only available in Desktop. You can expect it to be available in Service soon!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Python Download:
+https://www.python.org/downloads/";"2018-08-14T14:00:04Z";"https://www.youtube.com/watch?v=EmALxO7V7y0";"https://i.ytimg.com/vi/EmALxO7V7y0/default.jpg";"9M10S";"false";"hd"
+"icf7Hfj22vg";"How to Easily Map Your Database Schema in Power BI";"Learning a new database structure is hard. In this tutorial, I'm going to show you how you can create a visualization in Power BI that can allow you to see how your database schema is actually set up. 
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Network Visualization:
+https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381419?tab=Overview
+
+Chiclet Slicer:
+https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380756?tab=Overview";"2018-04-23T12:50:06Z";"https://www.youtube.com/watch?v=icf7Hfj22vg";"https://i.ytimg.com/vi/icf7Hfj22vg/default.jpg";"9M49S";"false";"hd"
+"z7FBukPBKzg";"Power BI: 3 Minute Tips - What If Analysis (Adjustable Goal)";"In this tutorial, I'll show you how to use What If Analysis in your report. Specifically, we are adding an adjustable sales goal to be able to input what percent increase we desire over last year's sales.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-14T16:00:08Z";"https://www.youtube.com/watch?v=z7FBukPBKzg";"https://i.ytimg.com/vi/z7FBukPBKzg/default.jpg";"5M33S";"false";"hd"
+"VRQq7XVWdR8";"Power BI: 3 Minute Tips - Traffic Light KPI";"In this tutorial, I show you how to make your own traffic light KPI in Power BI! This is a useful visual that can allow you to comprehend data quickly.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-09T17:00:04Z";"https://www.youtube.com/watch?v=VRQq7XVWdR8";"https://i.ytimg.com/vi/VRQq7XVWdR8/default.jpg";"6M56S";"false";"hd"
+"6IHNYDy_Ynw";"Power BI - Organize Measures with Measure Table";"This is a simple tip but it can save you a lot of frustration when you can't find one of the measures that you've created. By organizing all of your measures onto a ""measure table,"" you can rest assured that you will always know where your Power BI measures are living.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-06T15:00:01Z";"https://www.youtube.com/watch?v=6IHNYDy_Ynw";"https://i.ytimg.com/vi/6IHNYDy_Ynw/default.jpg";"3M5S";"false";"hd"
+"dzJvTcCedm8";"Power BI: 3 Minute Tips - Dynamically Set Images with Image Viewer";"In this Power BI tutorial, we learn how to use the Image Viewer custom visual that allows us to dynamically set images in our report! Changing images based on slicer selections will add a whole new layer of functionality to any report you build.
+
+Link for Image Viewer visual:
+http://blog.pragmaticworks.com/power-bi-custom-visuals-image-viewer
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-28T15:00:04Z";"https://www.youtube.com/watch?v=dzJvTcCedm8";"https://i.ytimg.com/vi/dzJvTcCedm8/default.jpg";"3M45S";"false";"hd"
+"uFhsqX_A6XA";"Power BI: 3 Minute Tips - Email Subscriptions";"In this quick Power BI tutorial, we set up an email subscription for a published report. Subscriptions automatically send you an email with a snapshot of the dashboard or report every time the data refreshes!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-20T19:00:03Z";"https://www.youtube.com/watch?v=uFhsqX_A6XA";"https://i.ytimg.com/vi/uFhsqX_A6XA/default.jpg";"2M25S";"false";"hd"
+"fLqvaWJtwhQ";"Power BI: 3 Minute Tips - Forecasting";"In this Power BI tutorial, we learn how to use forecasting in order to perform predictive analysis on our line chart. Forecasting is a useful way to estimate future trends.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-15T19:00:03Z";"https://www.youtube.com/watch?v=fLqvaWJtwhQ";"https://i.ytimg.com/vi/fLqvaWJtwhQ/default.jpg";"3M52S";"false";"hd"
+"DMtlv-BlKP4";"Power BI: 3 Minute Tips - Drillthrough";"In this new series, I show you some quick tips that can make your Power BI reports really shine. You can learn some awesome tricks in less than 3 minutes!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-02-08T02:01:27Z";"https://www.youtube.com/watch?v=DMtlv-BlKP4";"https://i.ytimg.com/vi/DMtlv-BlKP4/default.jpg";"2M34S";"false";"hd"
+"AZAL-QPn5Zc";"Power BI - Filter by a Measure in a Slicer";"Check out this awesome Power BI tutorial on how to add a filter by a measure! This isn't possible by default, so I will show you how to work around it and slice by a measure!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-07-21T14:00:03Z";"https://www.youtube.com/watch?v=AZAL-QPn5Zc";"https://i.ytimg.com/vi/AZAL-QPn5Zc/default.jpg";"10M52S";"false";"hd"
+"LG-fdqSIFxE";"Power BI - Drillthrough on All Columns and Measures with a Single Field";"In this Power BI tutorial, you will learn how to set up drillthrough in a dynamic way! Even if your end-users alter visualizations on the Power BI Service using the new Personalized Visuals feature, your drillthrough will never break. It's actually really easy to set up as well!
+
+Live, Real-World Datasets:
+https://training.bielite.com/datasets/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-06-04T14:34:48Z";"https://www.youtube.com/watch?v=LG-fdqSIFxE";"https://i.ytimg.com/vi/LG-fdqSIFxE/default.jpg";"5M34S";"false";"hd"
+"eNP36ozsnss";"Power BI - Personalized Visuals";"Personalized visualizations in Power BI! Learn how to set up your Power BI report so that end-users can personalize the way visualizations look in Power BI Service! This is a great feature announced with the April 2020 Power BI update.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-05-07T15:34:36Z";"https://www.youtube.com/watch?v=eNP36ozsnss";"https://i.ytimg.com/vi/eNP36ozsnss/default.jpg";"7M28S";"false";"hd"
+"eXz0cLDRMyg";"Power BI - Paginated Report Page Tooltips";"In this Power BI tutorial, we learn how to set up report page tooltips to show a paginated table. This is a cool trick to allow you to show all of your data in an RPT in case you have extra data not shown in the default view.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-04-14T14:31:41Z";"https://www.youtube.com/watch?v=eXz0cLDRMyg";"https://i.ytimg.com/vi/eXz0cLDRMyg/default.jpg";"11M56S";"false";"hd"
+"ppQ0DdtBaCw";"Power BI - Recursive Calculations with Python";"In this Power BI tutorial, learn how to perform recursive calculations with Python! This method will allow you to iterate over a table and perform a function that calculates the results based on the previous row's calculation.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post:
+https://bielite.com/blog/recursive-calculations-with-python-in-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-03-26T14:10:50Z";"https://www.youtube.com/watch?v=ppQ0DdtBaCw";"https://i.ytimg.com/vi/ppQ0DdtBaCw/default.jpg";"8M57S";"false";"hd"
+"gkMjAYFeSiM";"Power BI - Native Dual Axis Line Charts!";"You can now add dual-axis line charts in Power BI! This has been one of the most requested features for years now, and it is finally here! Learn why you might want to add multiple axes to your line charts in this video.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-03-12T15:27:53Z";"https://www.youtube.com/watch?v=gkMjAYFeSiM";"https://i.ytimg.com/vi/gkMjAYFeSiM/default.jpg";"5M40S";"false";"hd"
+"_JMSw6i5pzY";"Power BI - Dynamic Gauge Color (Expression-Based Formatting #2)";"Hey guys! Parker here. Learn how to set up conditionally formatting for the built-in gauge visual in Power BI! This is now possible following the June 2019 Power BI update. Check it out!
+
+Dynamic Goals video:
+https://www.youtube.com/watch?v=HRJRJ3D9cq8
+
+Link to PBIX:
+https://www.dropbox.com/s/wgtwctziibkfcx2/Dynamic%20Gauge%20Color.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-06-11T14:00:02Z";"https://www.youtube.com/watch?v=_JMSw6i5pzY";"https://i.ytimg.com/vi/_JMSw6i5pzY/default.jpg";"4M27S";"false";"hd"
+"FO6e3rjSslQ";"Power BI - Dynamic Formatting by Slicer Selection";"What's up guys, Parker here with a video showing you how you can dynamically set the number of decimal places to show for a value in a table. This is a pretty cool trick that can add some versatility to your report. If you like the tutorial, make sure to subscribe and leave a like!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-08-21T14:00:01Z";"https://www.youtube.com/watch?v=FO6e3rjSslQ";"https://i.ytimg.com/vi/FO6e3rjSslQ/default.jpg";"6M12S";"false";"hd"
+"2V9cLPXPemg";"Power BI - Write Data to Excel (On Multiple Tabs)";"In this tutorial, I show yo how to write data to an Excel spreadsheet on multiple tabs! The nice thing about this approach is that you don't need to show any data on the report itself. You can write any data you want to the xls or xlsx.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-08-07T14:00:01Z";"https://www.youtube.com/watch?v=2V9cLPXPemg";"https://i.ytimg.com/vi/2V9cLPXPemg/default.jpg";"14M37S";"false";"hd"
+"aus8JuVxajM";"Power BI - Many-to-Many Relationships are Finally Here!";"Many-to-Many relationships are now natively supported in Power BI! This is HUGE! In this video I walk you through how to use the new functionality and also show you how you used to have to create these relationships in the past.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-07-24T14:00:01Z";"https://www.youtube.com/watch?v=aus8JuVxajM";"https://i.ytimg.com/vi/aus8JuVxajM/default.jpg";"4M58S";"false";"hd"
+"L2ELtem2iGY";"DAX for Power BI - Dynamic % Change";"In this DAX tutorial, we learn how to create a percent change calculation that is dynamic based on the level of the Power BI hierarchy! This is a nice, flexible formula that allows you to view the % change from one period to the next.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-07-29T14:00:10Z";"https://www.youtube.com/watch?v=L2ELtem2iGY";"https://i.ytimg.com/vi/L2ELtem2iGY/default.jpg";"6M52S";"false";"hd"
+"Ys11kq35rHU";"Alteryx Beginner Course - BI Elite Training";"The Ultimate Alteryx Beginner Course! Join Nathan Patrick Taylor as he guides you through the fundamentals of Alteryx, a data preparation/blend/analytics tool. Alteryx is gaining a ton of attention in large companies around the globe, so it's definitely worth picking up this new skill!
+
+Alteryx Beginner Course Page:
+https://training.bielite.com/courses/alteryx-beginner/
+
+Nathan's YouTube Channel:
+https://www.youtube.com/channel/UCrNAWR9SQ0n7aFZXfuT2JxA
+---------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-07-14T14:00:11Z";"https://www.youtube.com/watch?v=Ys11kq35rHU";"https://i.ytimg.com/vi/Ys11kq35rHU/default.jpg";"2M40S";"false";"hd"
+"T1q3BF5_YJ8";"Easy Looping in Power BI/Power Query";"In this Power BI tutorial, we learn how to iterate over data in Power Query! This is an advanced technique that allows you to loop through function calls to produce the desired result. This specific technique creates a While or Do While loop, and you can also create a For loop if desired.
+
+Link to PBIX:
+https://bielite.com/blog/powerbi-powerquery-looping/
+
+---------------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-06-30T14:00:13Z";"https://www.youtube.com/watch?v=T1q3BF5_YJ8";"https://i.ytimg.com/vi/T1q3BF5_YJ8/default.jpg";"15M46S";"false";"hd"
+"cr9UBeZ3AvQ";"Power BI - Comparing One Category vs All Others";"In this Power BI tutorial, we learn how to use disconnected tables and advanced DAX to show a single (or multiple) categories vs and others category. This is an amazing trick that you'll definitely want to add to your Power BI skills.
+
+Blog post with DAX code:
+https://bielite.com/blog/comparing-category-vs-others/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-06-10T15:00:03Z";"https://www.youtube.com/watch?v=cr9UBeZ3AvQ";"https://i.ytimg.com/vi/cr9UBeZ3AvQ/default.jpg";"11M16S";"false";"hd"
+"Y3ahe3J3Zuo";"Power BI - 3 Ways to Scale Data to Remove Effects of Outliers";"In this Power BI tutorial, learn how to effectively scale your data so that your data can show properly in a map or other visuals. Outliers can sometimes cause your scale to be skewed, so here are a few ways to fix it!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-04-01T14:01:01Z";"https://www.youtube.com/watch?v=Y3ahe3J3Zuo";"https://i.ytimg.com/vi/Y3ahe3J3Zuo/default.jpg";"5M57S";"false";"hd"
+"6M7AhO8vbNw";"Creating a Powerful Waterfall Chart in Power BI- xViz Waterfall Chart Custom Visual";"In this Power BI tutorial, we learn how to leverage the amazing features of the xViz Waterfall Chart custom visual to go above and beyond the default waterfall functionality. There are some many ways to customize your xViz Waterfall chart and provide value in ways you have not experienced yet in Power BI.
+
+xViz Waterfall Chart:
+https://xviz.com/visuals/waterfall-chart/
+_______________________________________________________________
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-03-10T14:02:59Z";"https://www.youtube.com/watch?v=6M7AhO8vbNw";"https://i.ytimg.com/vi/6M7AhO8vbNw/default.jpg";"8M35S";"false";"hd"
+"fTUw94veqfE";"Power BI - Moving X-Axis (Easy)";"In this Power BI tutorial, I will show you how to create a line chart with an X-axis that moves dynamically! You will be able to set a range of days and your chart will iterate through each day of data!
+
+Elite Power BI Consulting:
+https://bielite.com
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-02-18T15:00:11Z";"https://www.youtube.com/watch?v=fTUw94veqfE";"https://i.ytimg.com/vi/fTUw94veqfE/default.jpg";"11M24S";"false";"hd"
+"lFd2hjkKz_Q";"Power BI - Dynamic Axis via Slicer (No DAX)";"In this video, I show you how to dynamically switch your X-Axis via a slicer selection!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+TinyLizard Blog Post:
+http://tinylizard.com/dynamically-changing-chart-axis/";"2018-07-31T14:00:05Z";"https://www.youtube.com/watch?v=lFd2hjkKz_Q";"https://i.ytimg.com/vi/lFd2hjkKz_Q/default.jpg";"4M57S";"false";"hd"
+"sepAWgLOCBI";"R Visuals in Power BI - Dual Y-Axis Line Chart";"In this video, I show you how you can get past the common problem of needing a chart with 2 y axes! This is easily achievable in R with just a few lines of code!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-07-11T14:00:05Z";"https://www.youtube.com/watch?v=sepAWgLOCBI";"https://i.ytimg.com/vi/sepAWgLOCBI/default.jpg";"9M7S";"false";"hd"
+"qZtfSNReft4";"BI Elite Channel Trailer";"Subscribe today if you love Power BI or just want to learn something new.
+
+To enroll in my introductory Power BI course:
+https://tinyurl.com/y92hfoo8
+
+Welcome to the channel!";"2018-03-14T19:38:51Z";"https://www.youtube.com/watch?v=qZtfSNReft4";"https://i.ytimg.com/vi/qZtfSNReft4/default.jpg";"44S";"false";"hd"
+"651eVDaL34o";"Power BI - Fuzzy Merge (Approximate Matching)";"Hey guys! Parker here. Thanks to the October 2018 update, Power Bi now supports Fuzzy Matching. This is when you are trying to merge or join two or more tables where the join criteria is not exactly the same. This is extremely useful if you have errors in your data due to typing mistakes. Let's get started!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-10-16T14:00:00Z";"https://www.youtube.com/watch?v=651eVDaL34o";"https://i.ytimg.com/vi/651eVDaL34o/default.jpg";"5M40S";"false";"hd"
+"9XsMt1TxNeM";"DAX for Power BI - MAXX (All Time High)";"Hey guys, Parker here! Check out this cool trick on how to identify all time high's in your data using the MAXX function. It's pretty easy to implement and can provide you with great insights into your data.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-09-25T14:00:01Z";"https://www.youtube.com/watch?v=9XsMt1TxNeM";"https://i.ytimg.com/vi/9XsMt1TxNeM/default.jpg";"5M1S";"false";"hd"
+"kXgm7984oTs";"Refreshing a Single Table in a Power BI Dataset via XMLA Endpoint";"In this Power BI tutorial, we learn how to connect to a Power BI dataset through the XMLA endpoints. This allows us to do a whole bunch of things! In this video specifically, we will refresh a single table in our data model. This is useful when you've connected to multiple data sources, including some local data sources that can't be refreshed on the Power BI Service without a gateway.
+
+---------------------------------------------------------------------------------------------
+
+To enroll in my DA-100 Power BI Certification Course:
+https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-03-31T15:00:19Z";"https://www.youtube.com/watch?v=kXgm7984oTs";"https://i.ytimg.com/vi/kXgm7984oTs/default.jpg";"7M6S";"false";"hd"
+"Wt7ee9-jJwk";"Crossover Analysis in Power BI";"In this Power BI tutorial, you'll learn how to create a crossover plot in Power BI. Crossover charts allow you to easily visualize when metrics cross above or below each other over time. Stock traders will often look at the crossover of metrics like moving averages to determine their trading strategy. It's easy to perform crossover analysis in Power BI, though it takes a little outside-of-the-box thinking.
+
+Carlos's Video on Band Charts:
+https://www.youtube.com/watch?v=VeO5wAVgxDI
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/crossover-analysis-power-bi/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite
+
+0:00 Intro/Demo
+1:24 Building the Crossover Plot
+7:11 Review of Method";"2021-03-16T14:00:08Z";"https://www.youtube.com/watch?v=Wt7ee9-jJwk";"https://i.ytimg.com/vi/Wt7ee9-jJwk/default.jpg";"8M53S";"false";"hd"
+"no0j59bcrW8";"Validate Email Addresses in Power BI";"In this Power BI tutorial, I'll teach you how to easily validate email addresses directly from Power BI! We make use of the Impktful Email Validation API. With Impktful, we simply call the API with an email address and it returns if it is valid or invalid, and why!
+
+This Impktful API is completely free! All users can validate up to 5,000 email addresses per month and BI Elite Training students can validate 10,000 email addresses per month :)
+
+Impktful Email Validation API:
+https://www.impktful.com/
+
+Email Validation PBIX Template:
+https://bielite.com/blog/email-validation-in-power-bi/
+
+----------------------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite
+
+0:00 Intro
+1:52 Validation by File Upload
+2:45 Validation in Power BI
+4:13 Outro";"2021-03-09T15:00:30Z";"https://www.youtube.com/watch?v=no0j59bcrW8";"https://i.ytimg.com/vi/no0j59bcrW8/default.jpg";"4M35S";"false";"hd"
+"_GOIflxSlYI";"Dynamically Highlight Line Chart Series in Power BI";"In this Power BI tutorial, learn how to dynamically highlight a specific line in a line chart by slicer selection! This is not doable out-of-the-box, so you have to get creative!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/highlight-line-series-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-02-23T15:00:20Z";"https://www.youtube.com/watch?v=_GOIflxSlYI";"https://i.ytimg.com/vi/_GOIflxSlYI/default.jpg";"8M45S";"false";"hd"
+"KngjlmJCpUs";"Power BI Competition #4 - GME Stocks vs Reddit Activity";"In this Power BI competition, participants connected to datasets containing stock prices for GameStop (GME) and WallStreetBets subreddit activity! We had some awesome submissions that we're excited to share with you! Contests are open to everyone, so make sure to check out the Contests page for more information about the next one!
+
+Contest Page:
+https://training.bielite.com/contest-4-gme-stock-wallstreetbets/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-02-12T19:18:20Z";"https://www.youtube.com/watch?v=KngjlmJCpUs";"https://i.ytimg.com/vi/KngjlmJCpUs/default.jpg";"7M5S";"false";"hd"
+"A9yVhbgxgl8";"Power BI - Validate Email Addresses with Python (Outdated, see description)";"The method in this video is old and outdated. See this replacement video for a free email validation solution with Power BI: https://youtu.be/no0j59bcrW8
+
+Hey guys, Parker here! In this video, I'm going to show you how you can validate email addresses with the validate_email Python module. This is super simple and only requires a couple lines of code. You will be able to validate if the email is syntactically correct and if the email address is actually a real address used by someone! Hope you enjoy this trick!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-09-11T14:00:01Z";"https://www.youtube.com/watch?v=A9yVhbgxgl8";"https://i.ytimg.com/vi/A9yVhbgxgl8/default.jpg";"5M10S";"false";"hd"
+"NjdZjozKboA";"Power BI - Clustering";"To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-04T16:00:04Z";"https://www.youtube.com/watch?v=NjdZjozKboA";"https://i.ytimg.com/vi/NjdZjozKboA/default.jpg";"3M13S";"false";"hd"
+"HJr4mLYsnB8";"Power BI - Time Since Last Refresh";"Hey guys, Parker here! In this tutorial, we learn how to create a measure to display how long it's been since last refresh! This can be set up in no time, so let's get started!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-11-13T15:00:04Z";"https://www.youtube.com/watch?v=HJr4mLYsnB8";"https://i.ytimg.com/vi/HJr4mLYsnB8/default.jpg";"6M58S";"false";"hd"
+"IZJijGvbZks";"Power BI Competition #3 - World Happiness Analysis";"BI Elite Training students created some amazing Power BI reports for the 3rd Power BI contest! Take a look at the winning Power BI reports for inspiration for your next report build!
+
+Contest Page:
+https://training.bielite.com/contest-3-world-happiness/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-01-22T17:33:43Z";"https://www.youtube.com/watch?v=IZJijGvbZks";"https://i.ytimg.com/vi/IZJijGvbZks/default.jpg";"10M52S";"false";"hd"
+"UqTAJxp--c4";"Refreshable Currency Conversion with Dynamic Formatting in Power BI";"In this Power BI tutorial, we learn how to create a currency conversion solution! This trick is special for two reasons:
+
+1. The solution is refreshable so you can always grab the latest exchange rates (nothing is hardcoded).
+2. The different currencies show with their proper formatting! For example, USD show as $ while British Pounds show as £.
+
+This trick uses Calculation Groups through the use of Tabular Editor to provide the dynamic formatting! This is an advanced trick that you will want to add to your Power BI toolbox.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+PBIX Download/Blog Post:
+https://bielite.com/blog/refreshable-currency-conversion/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Exchange Rates: 
+https://www.iban.com/exchange-rates
+
+Currency Symbols:
+https://justforex.com/education/currencies
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-01-06T15:00:09Z";"https://www.youtube.com/watch?v=UqTAJxp--c4";"https://i.ytimg.com/vi/UqTAJxp--c4/default.jpg";"14M54S";"false";"hd"
+"fktQmk0a9OI";"Power BI - Dynamic Categories in the Small Multiples Visual!";"Microsoft has just released the Small Multiples functionality within Power BI! This visual is amazing on its own, and is even cooler with this trick you are about to watch. In this video, we learn how to make the categories within the Small Multiples chart dynamic via slicer selection!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/Download PBIX:
+https://bielite.com/blog/dynamic-small-multiples/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-12-17T15:30:03Z";"https://www.youtube.com/watch?v=fktQmk0a9OI";"https://i.ytimg.com/vi/fktQmk0a9OI/default.jpg";"9M45S";"false";"hd"
+"vbg4Je1tuis";"DAX for Power BI - Easy Cohort Analysis";"Perform customer cohort analysis in Power BI! Cohort analysis allows you to see if your customers are continuing to order as time passes. You'll be able to segment your customers based on the first month or period that they ordered. This easy technique uses simple DAX functions and patterns that you'll definitely want to add to your toolbox.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/et834ypphwqp4t8/Customer%20Cohort%20Analysis%20-%20Demo%201.pbix?dl=0
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-11-19T15:00:13Z";"https://www.youtube.com/watch?v=vbg4Je1tuis";"https://i.ytimg.com/vi/vbg4Je1tuis/default.jpg";"9M36S";"false";"hd"
+"BxKIJL5baAU";"Building a Power BI Admin View [Part 4]: Visualizing the Data!";"In the first three parts of this four-part series, we learned how to call the Power BI Admin API to connect to data from our organization. Now we visualize it!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-11-11T15:00:03Z";"https://www.youtube.com/watch?v=BxKIJL5baAU";"https://i.ytimg.com/vi/BxKIJL5baAU/default.jpg";"7M14S";"false";"hd"
+"-tTYPCTciyU";"Power BI - Visual Pagination";"In this Power BI tutorial, we learn how to create paginated visuals! This method allows you to show a certain number of categories on a single page and allow the user to click through to see later pages. This trick is awesome!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-08-26T14:00:00Z";"https://www.youtube.com/watch?v=-tTYPCTciyU";"https://i.ytimg.com/vi/-tTYPCTciyU/default.jpg";"9M56S";"false";"hd"
+"HRJRJ3D9cq8";"Power BI - Dynamic Goal";"Hey guys! Parker here. In this video I will show you how to set up dynamic goals! This is a fun little Power BI tutorial that will allow your gauge visuals to change automatically when a goal is hit. Take a look!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-10-24T14:00:02Z";"https://www.youtube.com/watch?v=HRJRJ3D9cq8";"https://i.ytimg.com/vi/HRJRJ3D9cq8/default.jpg";"6M51S";"false";"hd"
+"rLmZYThOJg0";"Power BI Playlist Updates";"Hey guys! Here's a quick update video to let you know about the new Power BI playlists that I've put together. Moving forward, I will be dividing the videos into these playlists to help create easy-to-follow learning tracks. Let me know what you think in the comments below!
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Power BI and DAX Basics:
+https://www.youtube.com/playlist?list=PLL-WSn9hvefrnhU92puxjsC-eDnCHZPxn
+
+Advanced Power BI Features and DAX Patterns:
+https://www.youtube.com/playlist?list=PLL-WSn9hvefq572GzyGClx3WEmXbtDglg
+
+Crazy Power BI Tricks:
+https://www.youtube.com/playlist?list=PLL-WSn9hvefrltDmyKkWMD90c878I5zcn
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-10-10T14:00:06Z";"https://www.youtube.com/watch?v=rLmZYThOJg0";"https://i.ytimg.com/vi/rLmZYThOJg0/default.jpg";"1M6S";"false";"hd"
+"6jeSIRpjv0M";"Power BI - Dynamic Columns in a Table";"What's up guys! Parker here. In this video, I take you through a quick tutorial to demonstrate how to set up dynamic columns in a table in Power BI. This is very easy to set up and awesome when it's finished. Check it out!
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/fhcsodi6mms8d89/Dynamic%20Columns%20in%20a%20Table%20-%20Finished.pbix?dl=0
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-12-11T15:00:01Z";"https://www.youtube.com/watch?v=6jeSIRpjv0M";"https://i.ytimg.com/vi/6jeSIRpjv0M/default.jpg";"4M27S";"false";"hd"
+"0Stq-erLMlo";"Power BI Competition - YouTube Data Analysis";"We've just launched Power BI Contest #5! In this Power BI competition, you can connect to a live database containing all of my YouTube channel data containing metrics like views, subscribers, comments, revenue, etc. This contest is free and open to everyone. Build an amazing Power BI report for the chance to win free training and a demo of your report on the channel!
+
+YouTube Data Competition:
+https://training.bielite.com/contests/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-04-05T15:04:42Z";"https://www.youtube.com/watch?v=0Stq-erLMlo";"https://i.ytimg.com/vi/0Stq-erLMlo/default.jpg";"1M39S";"false";"hd"
+"PAX5GP9SkTA";"Object-Level Security in Power BI";"In this Power BI tutorial, you’ll learn how to lock down your data model using Object-Level Security (OLS). Not to be confused with Row-Level Security, OLS doesn’t simply hide rows of data from the end user. OLS instead hides whole tables or columns!
+
+In the video, we decide to hide an entire column pertaining to sales revenue. From then on, the end user will not be able to see this column in their report, nor will they be able to see any measures that rely on the column! It’s important to note that this security applies when the user views the report, when the user analyzes the model with Analyze in Excel, and when the user connects to the dataset within Power BI Desktop. It completely hides the restricted columns/tables/measures, almost as if the items don’t exist at all!
+
+--------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/object-level-security-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Tabular Editor:
+https://github.com/otykier/TabularEditor/releases/tag/2.14.2
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite
+
+0:00? Intro
+0:55? Setting up OLS
+6:46 Viewing as User
+9:39? Outro";"2021-03-02T15:00:07Z";"https://www.youtube.com/watch?v=PAX5GP9SkTA";"https://i.ytimg.com/vi/PAX5GP9SkTA/default.jpg";"10M";"false";"hd"
+"-3r5Amv8wdg";"GME Stock Price + WallStreetBets Data Contest - BI Elite Training";"We've launched Power BI competition #4! Connect to datasets containing historical GameStop stock prices and WallStreetBets subreddit activity! Everyone can participate in this Power BI contest.
+
+Contest link:
+https://training.bielite.com/contests/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2021-02-01T18:20:10Z";"https://www.youtube.com/watch?v=-3r5Amv8wdg";"https://i.ytimg.com/vi/-3r5Amv8wdg/default.jpg";"52S";"false";"hd"
+"O0VsTLDTjss";"Power BI - Directly Compare Two Categories (Slicer Filters Other Slicer)";"In this Power BI tutorial, we learn how to compare two categories against each other using DAX. This technique will show you how to set up two slicers that filter each other so that you can't select the same category in both slicers. Next, we learn how to take our two selections and plot them visually.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/directly-compare-two-categories-in-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-12-02T15:00:33Z";"https://www.youtube.com/watch?v=O0VsTLDTjss";"https://i.ytimg.com/vi/O0VsTLDTjss/default.jpg";"6M55S";"false";"hd"
+"iyc74jnjKV8";"Power BI - Calculate Business Days for Every Country!";"In this Power BI tutorial, we learn how to mark each day as a business day or not a business day! This method even takes into account national holidays depending on the country you select! By the end of the technique, you will be able to accurately calculation the total number of business days in a certain time period.
+
+PBIX:
+https://www.dropbox.com/s/qryfmowjwzti7h0/Business%20Days%20-%20Sample.pbix?dl=0
+
+Working Days API:
+https://api.workingdays.org/1.2/api-documentation.php
+
+-------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-09-09T16:00:11Z";"https://www.youtube.com/watch?v=iyc74jnjKV8";"https://i.ytimg.com/vi/iyc74jnjKV8/default.jpg";"9M4S";"false";"hd"
+"uuwxWnAILr0";"Power BI - Highlighting the Current User's Data";"In this Power BI tutorial, we learn how to make the current user's data stand out to give them a quick view of the data that matters to them! This trick uses both conditional formatting and custom sorting to add some small touches to make the Power BI report more accessible for end-users.
+
+-------------------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-08-12T16:00:35Z";"https://www.youtube.com/watch?v=uuwxWnAILr0";"https://i.ytimg.com/vi/uuwxWnAILr0/default.jpg";"7M12S";"false";"hd"
+"OIGGrrnMIgk";"Power BI - Dynamically Add or Remove Measures from Visual";"In this video, I show you how to dynamically set multiple measures in a chart! You can add or remove these measures simply by selecting them!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-07-18T13:35:43Z";"https://www.youtube.com/watch?v=OIGGrrnMIgk";"https://i.ytimg.com/vi/OIGGrrnMIgk/default.jpg";"7M12S";"false";"hd"
+"pCgK-Ze3nhA";"Power BI - How to Set a Default Slicer Value";"Thanks for helping me get to 1000 subscribers! Let's celebrate with a fun trick that allows you to set default slicer selections! This is a fun trick that seems to be asked about a lot. In this video, I will show you how to default your data to show the current month's data.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-07-03T14:00:04Z";"https://www.youtube.com/watch?v=pCgK-Ze3nhA";"https://i.ytimg.com/vi/pCgK-Ze3nhA/default.jpg";"8M30S";"false";"hd"
+"4NgQLqHI6hU";"DAX for Power BI - True Total Sum";"A common question among DAX users is ""Why is my measure total not just a sum of my rows?"" In this video, I will show you how you can always get you grand total row to act as a sum of your detail rows.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-06-19T14:00:01Z";"https://www.youtube.com/watch?v=4NgQLqHI6hU";"https://i.ytimg.com/vi/4NgQLqHI6hU/default.jpg";"4M12S";"false";"hd"
+"KkUg3-R9kcA";"Power BI - Format Painter";"The format painter is an awesome way to carry through all of your formatting of one graph to another! It can save a lot of time if you have multiple visuals that you need formatted identically.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-06-05T14:00:01Z";"https://www.youtube.com/watch?v=KkUg3-R9kcA";"https://i.ytimg.com/vi/KkUg3-R9kcA/default.jpg";"2M49S";"false";"hd"
+"3QiTBXfxzHA";"Power BI - Passing Slicer Selections into a SQL Query (Animated X-Axis)";"It's possible! You can actually pass slicer selections into a SQL SELECT Query or Stored Procedure in Power BI. When you couple this with DirectQuery, you can continually change the data that you are querying! The possibilities are endless, but in this video we use this method to create an animated X-Axis. Watch and give it a try!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Drilldown Player Custom Visual:
+http://blog.pragmaticworks.com/power-bi-custom-visuals-drilldown-player";"2018-04-27T02:04:30Z";"https://www.youtube.com/watch?v=3QiTBXfxzHA";"https://i.ytimg.com/vi/3QiTBXfxzHA/default.jpg";"13M40S";"false";"hd"
+"HEMARcoxhkI";"DAX for Power BI - Average of Sum";"This video shows you how you can take a rolling average of a monthly sum. This doesn't sound too hard, but it can be very challenging if you are relatively new to DAX.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-18T16:00:01Z";"https://www.youtube.com/watch?v=HEMARcoxhkI";"https://i.ytimg.com/vi/HEMARcoxhkI/default.jpg";"10M58S";"false";"hd"
+"k_Z1Uu5y9l8";"DAX for Power BI - Dynamic Relationship by Selection";"In this DAX tutorial, we learn how to set dynamic relationships in your Power BI model. Using a little bit of DAX and some inactive relationships, we can specify which relationships our tables should use to pull data. This allows for more flexibility with how we visualize our data.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-29T04:12:33Z";"https://www.youtube.com/watch?v=k_Z1Uu5y9l8";"https://i.ytimg.com/vi/k_Z1Uu5y9l8/default.jpg";"7M34S";"false";"hd"
+"1UkDaiRGShM";"Power BI - Specifying Parameters for Data Source";"In this Power BI tutorial we learn how to set up parameters to specify Data Source settings. By creating parameters for your server instance and database name, you will never have to type them again when connecting to your data.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-19T16:00:00Z";"https://www.youtube.com/watch?v=1UkDaiRGShM";"https://i.ytimg.com/vi/1UkDaiRGShM/default.jpg";"4M28S";"false";"hd"
+"Ka7Ds4EAjNQ";"Dax for Power BI: Fixing Incorrect Measure Totals";"Have you ever created a measure in Power BI only to find out that your total row does not add up to the sum of your detail rows? This isn't technically wrong. In this DAX tutorial, we make sure your measures will always aggregate the way you expect.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-21T15:00:04Z";"https://www.youtube.com/watch?v=Ka7Ds4EAjNQ";"https://i.ytimg.com/vi/Ka7Ds4EAjNQ/default.jpg";"9M26S";"false";"hd"
+"oLZ7jTKG1fw";"DAX for Power BI: USERELATIONSHIP";"The DAX function USERELATIONSHIP is a key tool to have in your DAX tool belt. This handy function will make your Power BI reports much more flexible by allowing you to use more columns to join tables.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-17T14:00:04Z";"https://www.youtube.com/watch?v=oLZ7jTKG1fw";"https://i.ytimg.com/vi/oLZ7jTKG1fw/default.jpg";"7M1S";"false";"hd"
+"0TAapq8TnFQ";"Power BI: 3 Minute Tips - Groups";"In this Power BI tutorial, we learn how to use groups to better visualize our data. Grouping can be a great way to see subdivisions in the data such as weekdays vs. weekends.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-14T16:20:03Z";"https://www.youtube.com/watch?v=0TAapq8TnFQ";"https://i.ytimg.com/vi/0TAapq8TnFQ/default.jpg";"4M1S";"false";"hd"
+"_8vw30ltFJ0";"Power BI: 3 Minute Tips - Selection Pane with Bookmarks";"In this tutorial we learn how to use the selection pane coupled with bookmarks to save different states of our report!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-12T19:00:03Z";"https://www.youtube.com/watch?v=_8vw30ltFJ0";"https://i.ytimg.com/vi/_8vw30ltFJ0/default.jpg";"4M16S";"false";"hd"
+"A4iG8S4EpHs";"Power BI - Line Markers with Conditional Formatting";"What's up guys! Parker here. Check out this simple Power BI trick to add conditionally formatted line markers to your chart! This is incredibly easy to set up and adds another dimension to your graphs! Try it out!
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/ridwp9llmjmso5t/Conditional%20Line%20Markers.pbix?dl=0
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-02-19T15:00:01Z";"https://www.youtube.com/watch?v=A4iG8S4EpHs";"https://i.ytimg.com/vi/A4iG8S4EpHs/default.jpg";"1M53S";"false";"hd"
+"1VNfhqILnh8";"Google Analytics Competition - BI Elite Training";"Practice your Power BI skills by competing in the first BI Elite Training data competition! Connect to live, real-world web traffic data from Google Analytics and design a stunning dashboard. The competition rules can be found here:
+
+How to Enter the Competition:
+https://training.bielite.com/contests/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-11-02T17:30:00Z";"https://www.youtube.com/watch?v=1VNfhqILnh8";"https://i.ytimg.com/vi/1VNfhqILnh8/default.jpg";"1M42S";"false";"hd"
+"uwjOFYz-FxM";"Power BI - Export Report and Email to Current User (Power Automate)";"In this Power BI tutorial, we learn how to send an export of a Power BI report to the logged in user, or any list of users! This method uses both Power Automate (Microsoft Flow) and buttons within Power BI. This is a fun trick that demonstrates the power of using multiple technologies within the Power Platform!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Download the PBIX:
+https://www.dropbox.com/s/87vkdheqo89s1ae/Export%20Demo.pbix?dl=0
+
+Ashley's BI Blog:
+https://www.bi-bootcamp.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-10-20T14:00:11Z";"https://www.youtube.com/watch?v=uwjOFYz-FxM";"https://i.ytimg.com/vi/uwjOFYz-FxM/default.jpg";"12M22S";"false";"hd"
+"SI0Oxt2Mu-Y";"How to Create a Single Value Slider in Power BI";"In this Power BI tutorial, we learn how to set up a single-value slider. This option isn't available out of the box, so it's important to learn how to create a single value slider with the use of What-if Parameters.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-09-29T14:00:04Z";"https://www.youtube.com/watch?v=SI0Oxt2Mu-Y";"https://i.ytimg.com/vi/SI0Oxt2Mu-Y/default.jpg";"6M55S";"false";"hd"
+"YeI_n8myE68";"DAX for Power BI - Understanding Filter Context";"In this Power BI tutorial, we learn all about Filter Context when creating DAX measures. Filter Context can be though of as all of the filters that you can apply to a measure to cause it to calculate to a certain value. In this video specifically, you will learn of the 8 different areas to check for filters to ensure that you fully understand the filter context when evaluating your DAX measures.
+
+Videos taken from DAX Beginner Course:
+https://training.bielite.com/courses/dax-beginner/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-09-01T14:00:12Z";"https://www.youtube.com/watch?v=YeI_n8myE68";"https://i.ytimg.com/vi/YeI_n8myE68/default.jpg";"23M12S";"false";"hd"
+"Z4E2jSZ4r6A";"Building a Power BI Admin View [Part 3]: User Activity Data!";"Part 3 of the Power BI Admin Report series covers how to obtain user activity data! We need to call the Power BI API recursively to get all of the data back. In the next part, we'll visualize all of the data from the previous 3 parts!
+
+Blog post with code: https://bielite.com/blog/building-a-power-bi-admin-report/
+
+Admin View Part 2: https://youtu.be/2RZkc_qrV1g
+Looping in PowerQuery: https://youtu.be/T1q3BF5_YJ8
+
+----------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-08-19T14:00:28Z";"https://www.youtube.com/watch?v=Z4E2jSZ4r6A";"https://i.ytimg.com/vi/Z4E2jSZ4r6A/default.jpg";"18M33S";"false";"hd"
+"Ds8Twy4VvzU";"DAX for Power BI - Highlight Current Period";"In this video, I'll show you how to color the current period in a bar graph in a Power BI report. This technique uses a simple measure and conditional formatting inside of a bar graph.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-01-29T15:00:01Z";"https://www.youtube.com/watch?v=Ds8Twy4VvzU";"https://i.ytimg.com/vi/Ds8Twy4VvzU/default.jpg";"5M41S";"false";"hd"
+"TEmNcM6OnSc";"Advanced RANKX (Multiple Columns) on Havens Consulting Channel";"Link to video! 
+https://www.youtube.com/watch?v=pW76t-pdUPE
+
+Reid's Channel:
+https://www.youtube.com/channel/UCjlfQwqb-0S40XQ8seYPLSw
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-01-09T15:01:08Z";"https://www.youtube.com/watch?v=TEmNcM6OnSc";"https://i.ytimg.com/vi/TEmNcM6OnSc/default.jpg";"29S";"false";"hd"
+"MXKDEyc-vtU";"DAX for Power BI - Identifying Best and Worst Periods in Your Data";"What's up guys! Parker here. In this video I will be demonstrating how highlight the highest and lowest sales period in your data dynamically! This is an awesome trick that isn't too hard to set up. I hope you enjoy this Power BI Tutorial!
+
+Link to PBIX:
+https://www.dropbox.com/s/du6jvhctaosupvg/Max_Min_Periods%20-%20Demo%202.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-12-05T15:00:01Z";"https://www.youtube.com/watch?v=MXKDEyc-vtU";"https://i.ytimg.com/vi/MXKDEyc-vtU/default.jpg";"14M44S";"false";"hd"
+"6ZM5uFFAd_w";"Power BI - Soft Row-Level Security (Current User vs ""Others"")";"In this fun Power BI tutorial, we learn how to set up what I call ""Soft RLS"" which will show the data for the currently logged in user and will mask all other categories as ""Others"". Masking data is a good way to hide sensitive data while still giving the user a sense of proportion to total.
+
+-----------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-08-05T14:00:02Z";"https://www.youtube.com/watch?v=6ZM5uFFAd_w";"https://i.ytimg.com/vi/6ZM5uFFAd_w/default.jpg";"10M46S";"false";"hd"
+"gNCTjoCu6k4";"Power BI Report Design for Maximum Accessibility";"The DA-100 exam is finally released! It is no longer in beta, so it's definitely a good idea to start studying to take the exam and earn you Data Analyst certification. This video covers how to make your Power BI reports accessible for users of all abilities. You will learn some Power BI report design best practices.
+
+DA-100 Exam Prep Training Course:
+https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-07-07T14:00:09Z";"https://www.youtube.com/watch?v=gNCTjoCu6k4";"https://i.ytimg.com/vi/gNCTjoCu6k4/default.jpg";"7M36S";"false";"hd"
+"2RZkc_qrV1g";"Building a Power BI Admin View [Part 2]: Obtaining a Refreshable Access Token";"This is part 2 of our 4-part series on how to create a Power BI Admin View report. In this topic, we learn how to retrieve an access token to refresh our Power BI report when calling the Power BI API. We also walk through some steps to clean up the data import steps by using the ""expand"" keyword when connecting to the workspaces.
+
+Marc's Website and Blog:
+https://data-marc.com/
+
+----------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-06-23T15:22:15Z";"https://www.youtube.com/watch?v=2RZkc_qrV1g";"https://i.ytimg.com/vi/2RZkc_qrV1g/default.jpg";"17M32S";"false";"hd"
+"EJwbwMB-fDQ";"DA-100 Power BI Certification Course - BI Elite Training";"Microsoft has released the new Power BI certification exam called the DA-100: Analyzing Data with Microsoft Power BI. We've gone through all 100 TOPICS that Microsoft recommends learning prior to taking the exam and created tutorials outlining what you need to know. This mega course offers multiple hours of content, covering everything you could ever want to know about Power BI. With access to this course, you will also gain access to a live Azure SQL database to practice along with the videos!
+
+DA-100 Power BI Certification Course:
+https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/
+
+------------------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-05-19T15:19:07Z";"https://www.youtube.com/watch?v=EJwbwMB-fDQ";"https://i.ytimg.com/vi/EJwbwMB-fDQ/default.jpg";"2M15S";"false";"hd"
+"H3-evk6-qpQ";"Power BI - Role-Playing Dimensions vs USERELATIONSHIP";"DA-100 Power BI Certification Course:
+https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/
+
+Learn how to set up role playing dimensions in Power BI. More importantly, learn why you shouldn't! Best practice is to use the USERELATIONSHIP function instead of defining multiple role-playing dimensions in your Power BI model. This video is a lesson from my DA-100 Power BI Certification course.
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-04-28T14:00:14Z";"https://www.youtube.com/watch?v=H3-evk6-qpQ";"https://i.ytimg.com/vi/H3-evk6-qpQ/default.jpg";"7M34S";"false";"hd"
+"m4a2c55eXMU";"Power BI - Dynamic Button Text & Web URL";"In this Power BI tutorial, learn how to set up a button with dynamic button text and web url destination! You can even set up a dynamic tooltip for the button as well!
+
+Blog Post:
+https://bielite.com/blog/dynamic-button-text-web-url/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-03-18T14:00:11Z";"https://www.youtube.com/watch?v=m4a2c55eXMU";"https://i.ytimg.com/vi/m4a2c55eXMU/default.jpg";"6M2S";"false";"hd"
+"Pk3uKEuLrUY";"Power BI Intermediate Course - BI Elite Training";"Have you mastered all of the basics in Power BI and are looking to develop your skills further? Check out the Power BI Intermediate Course for in-depth instruction from a Microsoft MVP on many of the more advanced Power BI topics! For only $29/month, you can gain access to all courses hosted on the BI Elite Training portal.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-03-03T15:36:54Z";"https://www.youtube.com/watch?v=Pk3uKEuLrUY";"https://i.ytimg.com/vi/Pk3uKEuLrUY/default.jpg";"4M16S";"false";"hd"
+"UFD5S4Peqc4";"Power BI - Write Data to SQL";"In this Power BI tutorial, learn how to write your data back to a SQL database! I will show you how to query a web API and then store the results in a SQL Server database which you can then report off of! You can even set up multiple datasets on scheduled refresh to push your data to SQL every hour or even every 30 minutes!
+
+Elite Power BI Consulting:
+https://bielite.com
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-02-11T15:31:01Z";"https://www.youtube.com/watch?v=UFD5S4Peqc4";"https://i.ytimg.com/vi/UFD5S4Peqc4/default.jpg";"10M43S";"false";"hd"
+"rXDomxfoY1o";"DAX for Power BI - Nested IF Statements";"In this video, we cover how to write DAX for multiple IF functions nested inside each other. This can be helpful if you need to code for a few logical cases.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-20T14:15:56Z";"https://www.youtube.com/watch?v=rXDomxfoY1o";"https://i.ytimg.com/vi/rXDomxfoY1o/default.jpg";"5M2S";"false";"hd"
+"CoTLQiMZFbI";"Power BI - Date Slicer";"Date slicers make it really convenient to select time periods in your Power BI report. In this video, I will show you all of the different date slicer options.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-13T16:00:02Z";"https://www.youtube.com/watch?v=CoTLQiMZFbI";"https://i.ytimg.com/vi/CoTLQiMZFbI/default.jpg";"3M55S";"false";"hd"
+"QBD4na6Aeq0";"DAX for Power BI - COMBINEVALUES";"Power BI just released a new function called COMBINEVALUES that allows you to concatenate delimited text in an elegant way. Not only does the syntax look cleaner, but it also allows for faster SQL joins using direct query by allowing your table joins to use the column indexes instead of joining on the concatenated text.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-09T16:00:03Z";"https://www.youtube.com/watch?v=QBD4na6Aeq0";"https://i.ytimg.com/vi/QBD4na6Aeq0/default.jpg";"7M46S";"false";"hd"
+"Uuo8AsMxqss";"Power BI - Importing Stock Data into Power BI";"In this video, we learn how to import stock data into our Power BI model. Using the R package BatchGetSymbols, we can download all of the stock price data for the S&P500. 
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-23T16:00:04Z";"https://www.youtube.com/watch?v=Uuo8AsMxqss";"https://i.ytimg.com/vi/Uuo8AsMxqss/default.jpg";"3M13S";"false";"hd"
+"RVcJ3O_O2Jg";"DAX for Power BI - Running Total (Cumulative Sum)";"In this tutorial we learn how to create a Running Total measure to calculate the cumulative sum of our data using DAX. This is an extremely useful measure that will add a ton of flexibility to your Power BI report.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-12T16:00:04Z";"https://www.youtube.com/watch?v=RVcJ3O_O2Jg";"https://i.ytimg.com/vi/RVcJ3O_O2Jg/default.jpg";"5M39S";"false";"hd"
+"TRdVDwWqbfY";"Power BI: 3 Minute Tip - Fun Aquarium Visual";"In this quick Power BI tutorial, we learn how to import and use the custom Enlighten Aquarium Visual. This fish-filled visual is loads of fun and can be used to liven up creative Power BI reports.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-19T19:00:02Z";"https://www.youtube.com/watch?v=TRdVDwWqbfY";"https://i.ytimg.com/vi/TRdVDwWqbfY/default.jpg";"2M26S";"false";"hd"
+"di_J3aFqY9E";"Power BI: 3 Minute Tips - Trendlines and Percentile Lines";"In this tutorial, we learn how to add trendlines, percentile lines, and constant lines to a line chart in our Power BI report.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-16T19:00:02Z";"https://www.youtube.com/watch?v=di_J3aFqY9E";"https://i.ytimg.com/vi/di_J3aFqY9E/default.jpg";"4M32S";"false";"hd"
+"r5WkPqu9E4E";"Power BI - February 2018 Updates in Action";"Here are the most ground-breaking updates released to Power BI Desktop for February 2018. This update came with massive improvements to the way you can filter data. Slicer sync now allows you carry slicer selections from page to page and now you can even cross-filter using selections on multiple visuals! Check it out!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-07T09:10:23Z";"https://www.youtube.com/watch?v=r5WkPqu9E4E";"https://i.ytimg.com/vi/r5WkPqu9E4E/default.jpg";"7M25S";"false";"hd"
+"RnMrGaiVWtQ";"Easy Web Scraping in Power BI";"Using Power BI for web scraping is super easy! Watch this video to find out how to do it for yourself.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to Callum Green's blog post:
+http://blogs.adatis.co.uk/callumgreen/post/Loop-through-Multiple-Web-Pages-using-Power-Query";"2018-05-29T14:00:01Z";"https://www.youtube.com/watch?v=RnMrGaiVWtQ";"https://i.ytimg.com/vi/RnMrGaiVWtQ/default.jpg";"8M44S";"false";"hd"
+"HvPh2go8xJs";"Power BI - Old and New Web Connector Experience";"In this video I take you through the old and new web connector functionality in Power BI. The From Web Connector got a huge upgrade in the May 2018 update and now allows you to define how to scrape data off a web page. Check it out!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-05-23T14:00:01Z";"https://www.youtube.com/watch?v=HvPh2go8xJs";"https://i.ytimg.com/vi/HvPh2go8xJs/default.jpg";"8M12S";"false";"hd"
+"8H9xM741hBQ";"Power BI - Connect to Most Recent File in a Folder";"In this video, you will learn how to connect your Power BI file to the most recently updated file in a folder. This is really handy when you have a folder of files that is constantly updated with new files coming in and you want your Power BI model to pick up on the newest file.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-05-14T14:00:01Z";"https://www.youtube.com/watch?v=8H9xM741hBQ";"https://i.ytimg.com/vi/8H9xM741hBQ/default.jpg";"5M35S";"false";"hd"
+"6_1XDU3I-50";"Power BI - Measure Drillthrough";"As part of the May 2018 Power BI update, you can now pass multiple filters via drillthrough! Originally you could only pass your specific drillthrough filter on to the next page, but it is now possible to send all of the filters that you have selected. You can even drillthrough using measures! Because filter context matters in calculating a measure, all of your filters will be passed through if you drillthrough using a measure. Give it a try!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-05-08T12:23:51Z";"https://www.youtube.com/watch?v=6_1XDU3I-50";"https://i.ytimg.com/vi/6_1XDU3I-50/default.jpg";"5M57S";"false";"hd"
+"YfdypVSYb9c";"Power BI - Custom Query Load Order";"In this video, we cover how to set up a custom order to load your tables into your Power BI Report. This allows your tables to load one by one. The idea for this tutorial was taken from a blog post by Chris Webb that can be found at: https://blog.crossjoin.co.uk/2015/04/30/using-function-invokeafter-in-power-query/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-30T14:00:06Z";"https://www.youtube.com/watch?v=YfdypVSYb9c";"https://i.ytimg.com/vi/YfdypVSYb9c/default.jpg";"6M41S";"false";"hd"
+"dcjQLZgoNA0";"Power BI - GROUP BY without DAX";"You can group by a column or set of columns using Power BI's built in Group By function. This function acts much like a GROUP BY clause in SQL and is very handy if you don't want to dive too deep into the DAX.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-16T16:00:04Z";"https://www.youtube.com/watch?v=dcjQLZgoNA0";"https://i.ytimg.com/vi/dcjQLZgoNA0/default.jpg";"3M52S";"false";"hd"
+"151Quamk9Uo";"Power BI - Show Parameters in Report";"In this video, you will learn how to display your parameter values in your report. This might come in handy if you want to show what the user enters into your Power BI parameters.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-11T16:00:01Z";"https://www.youtube.com/watch?v=151Quamk9Uo";"https://i.ytimg.com/vi/151Quamk9Uo/default.jpg";"3M41S";"false";"hd"
+"RcQ8gE-1hSU";"Power BI - Q&A Explorer";"This video shows you how to set up and use the Q&A Explorer. This feature was released for the April 2018 Power BI update. The Q&A explorer adds a lot of functionality to reports in both Power BI Desktop and Service!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-05T02:47:02Z";"https://www.youtube.com/watch?v=RcQ8gE-1hSU";"https://i.ytimg.com/vi/RcQ8gE-1hSU/default.jpg";"4M13S";"false";"hd"
+"dbZJLFI-t-Y";"Power BI - How to Fix Your Scatter Chart";"Scatter charts cause all sorts of problems in Power BI. In this video, I will show you how to create scatter charts so easily that you never have to worry about them again.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-04-03T14:00:02Z";"https://www.youtube.com/watch?v=dbZJLFI-t-Y";"https://i.ytimg.com/vi/dbZJLFI-t-Y/default.jpg";"4M9S";"false";"hd"
+"vWnMk3E1lIc";"Power BI - Conditional Formatting (Background Color, Font Color, Data Bar, By Rule)";"In this tutorial, I show you how to set up conditional formatting in a Power BI table or matrix. There are 4 different types of conditional formatting. These include conditionally formatting the background color or font color, creating data bars, or formatting by rules.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-26T16:00:06Z";"https://www.youtube.com/watch?v=vWnMk3E1lIc";"https://i.ytimg.com/vi/vWnMk3E1lIc/default.jpg";"5M16S";"false";"hd"
+"Anv3X3EuHZ8";"DAX for Power BI - Dynamic Ranking with RANKX";"In this DAX for Power BI tutorial, you will learn how to dynamically rank your data using the RANKX function. This DAX function allows you to ranks data based on any column while respecting the slicer selections on the report.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-21T16:00:01Z";"https://www.youtube.com/watch?v=Anv3X3EuHZ8";"https://i.ytimg.com/vi/Anv3X3EuHZ8/default.jpg";"7M17S";"false";"hd"
+"KjUAEci6G20";"Power BI - Animating Text";"In this tutorial we learn how to animate text using the Unichar function and the drilldown player!
+
+Chris Webb's blog:
+https://blog.crossjoin.co.uk/2017/07/28/creating-animated-reports-in-power-bi-with-the-drilldown-player-custom-visual/
+
+Drilldown Player Custom Visual:
+https://github.com/Microsoft/powerbi-visuals-drilldown-player/releases
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-16T16:00:02Z";"https://www.youtube.com/watch?v=KjUAEci6G20";"https://i.ytimg.com/vi/KjUAEci6G20/default.jpg";"5M42S";"false";"hd"
+"ZilC968Fc9c";"Power BI - Report Page Tooltip";"This tutorial takes you through how to create your own custom report page tooltips. This new feature allows you to specify exactly how you want a tooltip to show by allowing you to display an entire report page as a tooltip! 
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-03-08T05:39:27Z";"https://www.youtube.com/watch?v=ZilC968Fc9c";"https://i.ytimg.com/vi/ZilC968Fc9c/default.jpg";"6M38S";"false";"hd"
+"nePWIVgHobs";"R Visuals in Power BI - Histogram";"If you know the programming language R, it will open up a vast array of possibilities for your Power BI report building. R can provide you with countless chart types and allow you to perform statistical analyses on your data. This new series will teach you both basic R Visuals and advanced scripts to display awesome infographics.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-03-02T15:00:06Z";"https://www.youtube.com/watch?v=nePWIVgHobs";"https://i.ytimg.com/vi/nePWIVgHobs/default.jpg";"6M4S";"false";"hd"
+"WX0nH-lEpk4";"Power BI: 3 Minute Tips - Transforming Data with R Scripts";"In today's tutorial, we learn how to run R scripts to transform your data. Power BI includes an R script engine that can be utilized to run statistical analysis and machine learning algorithms on our datasets.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-26T19:00:03Z";"https://www.youtube.com/watch?v=WX0nH-lEpk4";"https://i.ytimg.com/vi/WX0nH-lEpk4/default.jpg";"3M31S";"false";"hd"
+"cS1omlvorrk";"Power BI: 3 Minute Tip - Hierarchies";"In this Power BI tutorial, we learn how to include hierarchies in our report. Hierarchies enable drill down in our visuals and allow for a high level of interaction with our data.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/";"2018-02-13T19:00:01Z";"https://www.youtube.com/watch?v=cS1omlvorrk";"https://i.ytimg.com/vi/cS1omlvorrk/default.jpg";"3M30S";"false";"hd"
+"4pdzhKNwQlY";"DAX for Power BI: 12 Month Rolling Average";"In this DAX tutorial, we learn how to write the DAX query to calculate 4 week, 6 month, and 12 month rolling averages (aka Moving Average) in order to visualize our sales trends. DAX queries are an important way to build an awesome Power BI report that tells a compelling story.
+
+NOTE: Make sure to use a negative interval such as -28 when using the DATESINPERIOD function. This ensures that you are averaging the past 28 days and not the future.
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/";"2018-02-11T20:35:36Z";"https://www.youtube.com/watch?v=4pdzhKNwQlY";"https://i.ytimg.com/vi/4pdzhKNwQlY/default.jpg";"8M57S";"false";"hd"
+"cTqFNg_y9lw";"Building a Power BI Admin View [Part 1]: Connecting to Data from the REST API";"In this four part series, we will be covering how to connect to the Power BI REST API to create an Power BI admin view of the entire tenant. You can take this data and visualize it to get a 360-degree view of your organization! Details on the series parts below:
+
+Part 1 (Current Video): Connecting to the Power BI Admin REST API to bring in data regarding workspaces, reports, datasets, dataflows, and users.
+Part 2: Receiving an access token to refresh the report.
+Part 3: Consuming user activity data.
+Part 4: Visualizing all of the data we have consumed in the report!
+
+-------------------------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-06-16T15:00:13Z";"https://www.youtube.com/watch?v=cTqFNg_y9lw";"https://i.ytimg.com/vi/cTqFNg_y9lw/default.jpg";"22M11S";"false";"hd"
+"OyvjGRnxCkw";"Power BI - Showing GIFs While Hovering Over a Visual";"In this Power BI tutorial, we learn how to show a gif as a report page tooltip when hovering over any visual! This is a cool technique that allows you to display instructional gifs or videos for your end users.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-05-28T15:36:33Z";"https://www.youtube.com/watch?v=OyvjGRnxCkw";"https://i.ytimg.com/vi/OyvjGRnxCkw/default.jpg";"5M52S";"false";"hd"
+"s9ck7xx85mA";"Power BI - Dynamic Conditional Formatting for Values and Totals";"Learn how to allow end-users the ability to dynamically show conditional formatting for values, totals, or both in a table or matrix visual in Power BI! This is a great trick that allows more flexibility for report consumers using a little bit of DAX. The code for the measure can be found on the accompanying blog post.
+
+Blog Post:
+https://bielite.com/blog/dynamic-conditional-formatting-values-totals/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-05-13T15:33:08Z";"https://www.youtube.com/watch?v=s9ck7xx85mA";"https://i.ytimg.com/vi/s9ck7xx85mA/default.jpg";"8M52S";"false";"hd"
+"U0YyIsqDWV4";"Power BI - xViz Hierarchy Filter Custom Visual";"xViz creates some of the most beautiful and responsive custom visuals on the Power BI market today! In this video, we will take a deep dive into the Advanced Hierarchy Slicer visual. This visual is free to install in Power BI Desktop.
+
+xViz Hierarchy Filter: https://xviz.com/visuals/hierarchical-filter/
+
+-------------------------------------------------------------------------------------------------------------
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-05-05T14:00:10Z";"https://www.youtube.com/watch?v=U0YyIsqDWV4";"https://i.ytimg.com/vi/U0YyIsqDWV4/default.jpg";"8M58S";"false";"hd"
+"AY_n9OWPgsk";"Power BI Beginner Course - BI Elite Training";"Learn how to create your first Power BI report in this all-encompassing Power BI Beginner Course from BI Elite Training! It's 2020 and Power BI looks a lot different than it used to. This course is designed to take you from a complete Power BI beginner to an intermediate report builder. Check out the training portal below if you would like to start your Power BI journey or would like to refresh your memory on some of the Power BI fundamentals and best practices that you may have forgotten.
+
+BI Elite Training:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-02-05T14:06:12Z";"https://www.youtube.com/watch?v=AY_n9OWPgsk";"https://i.ytimg.com/vi/AY_n9OWPgsk/default.jpg";"3M8S";"false";"hd"
+"xuBfK0oJmw8";"Power BI - Disable Refresh of Local and Unsupported Data Sources";"Hey guys! Parker here. In this Power BI tutorial, I'm going to demonstrate how to hard code your data that doesn't need to be refreshed. This is useful because your refresh will fail on Power BI service even if you choose ""Don't include in refresh"" within Power BI Desktop! Check out this quick trick on how you can refresh your datasets even with these local or unsupported data sources without a gateway!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-04-30T14:00:21Z";"https://www.youtube.com/watch?v=xuBfK0oJmw8";"https://i.ytimg.com/vi/xuBfK0oJmw8/default.jpg";"6M31S";"false";"hd"
+"ZlKMxbC4ehg";"DAX for Power BI - MAX of Multiple Columns or Measures";"What's up guys! Parker Here. Here's a fun Power BI tutorial on how to create a measure to determine the maximum values of multiple columns or measures. This is a lot trickier than you might expect, but easy enough when you know the exact steps!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/f6cviwtxibzx0k3/MAX%20of%20Multiple%20Columns%20or%20Measures.pbix?dl=0
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-03-26T14:00:08Z";"https://www.youtube.com/watch?v=ZlKMxbC4ehg";"https://i.ytimg.com/vi/ZlKMxbC4ehg/default.jpg";"5M16S";"false";"hd"
+"VKkN-FF66Zw";"Power BI - Dynamic Hierarchies";"Hey guys! Parker here. In this Power BI tutorial, I show you how to set up dynamic hierarchies! This allows you to specify the different levels of the hierarchy via slicer selection! Check it out!
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Link to PBIX:
+https://www.dropbox.com/s/w3wxd705aafzvv1/Dynamic%20Hierarchies.pbix?dl=0
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-02-12T15:47:04Z";"https://www.youtube.com/watch?v=VKkN-FF66Zw";"https://i.ytimg.com/vi/VKkN-FF66Zw/default.jpg";"8M8S";"false";"hd"
+"nvv4tPOY8lo";"Simple Moving Average (SMA) in Power BI";"In this Power BI tutorial, learn how to create a simple moving average measure (SMA) to smooth out variations in data. This is especially helpful for stock price data in order to identify trends that are difficult to see with the fluctuations.
+
+Current Power BI Competition with Dataset:
+https://training.bielite.com/contests/
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/simple-moving-averages-sma-in-power-bi/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite
+
+0:00 Intro Demo of finished product
+2:00 Calculating static moving averages
+4:48 Calculating dynamic moving averages
+6:07 Outro";"2021-02-05T17:17:46Z";"https://www.youtube.com/watch?v=nvv4tPOY8lo";"https://i.ytimg.com/vi/nvv4tPOY8lo/default.jpg";"6M20S";"false";"hd"
+"hilfglpKNRQ";"Power BI - Dynamic Date Axis Granularity (Drilldown Alternative)";"In this Power BI tutorial, learn how to set up a visual that can show dynamic date granularities via slicer selection! Your user will be able to choose to show the visual on a daily, monthly, or yearly level. They can also select the ""Dynamic"" option which will select the proper granularity based on the selected date range!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/dynamic-date-axis-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite
+
+
+0:00 Demo of finished product
+1:48 Setting up Daily, Monthly, and Yearly Selections
+7:10 Adding ""Dynamic"" selection
+11:48 Outro";"2021-01-26T15:00:10Z";"https://www.youtube.com/watch?v=hilfglpKNRQ";"https://i.ytimg.com/vi/hilfglpKNRQ/default.jpg";"12M21S";"false";"hd"
+"fKygF7VEJnQ";"Custom Date Period Selections in Power BI";"In this Power BI tutorial, you'll learn how to build a date period selection slicer! The cool part of this trick is you can set a ""Custom"" option that allows the user to select a custom date range, rather than the pre-defined date ranges. This custom date range selection is disabled until the ""Custom"" option is selected!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/PBIX:
+https://bielite.com/blog/custom-date-period-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite
+
+0:00 Demo of finished product
+1:33 Creating pre-defined date periods
+7:54 Adding ""Custom"" selection
+10:24 Outro";"2021-01-12T15:00:13Z";"https://www.youtube.com/watch?v=fKygF7VEJnQ";"https://i.ytimg.com/vi/fKygF7VEJnQ/default.jpg";"10M42S";"false";"hd"
+"Wz0N0c3EzVg";"Power BI Competition #2 - Spotify Music Analysis";"View the Power BI report submissions from our second Power BI competition (December 2020) hosted on the BI Elite Training website! There were a lot of great submissions for this contests and it was difficult to choose only 3 winners. Check out these reports and gain inspiration for your next Power BI report!
+
+If you want to compete in future competitions, check out the BI Elite Contests page (https://training.bielite.com/contests/). Contests begin the first Monday of every month!
+
+Contest Winners Page:
+https://training.bielite.com/contest-2-spotify-music-analysis/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-12-18T16:00:49Z";"https://www.youtube.com/watch?v=Wz0N0c3EzVg";"https://i.ytimg.com/vi/Wz0N0c3EzVg/default.jpg";"10M45S";"false";"hd"
+"h6zprXwtmfg";"Spotify Data Competition - BI Elite Training";"The 2nd BI Elite Power BI competition is now live! This competition lets you connect to an amazing dataset sourced from Spotify. Practice Power BI by building a stunning report that you can add to your Power BI portfolio! The top 3 winning reports will receive free training and a demo of their report on this channel!
+
+This dataset comes from Yamaç Eren Ay who has very generously published this dataset to Kaggle.
+
+Spotify Data Competition:
+https://training.bielite.com/contests/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-12-07T17:30:02Z";"https://www.youtube.com/watch?v=h6zprXwtmfg";"https://i.ytimg.com/vi/h6zprXwtmfg/default.jpg";"2M49S";"false";"hd"
+"ezGQ1YxfAOU";"DAX for Power BI - Creating a Custom Timeline Matrix";"In this Power BI tutorial, we learn how to create a custom timeline using the Matrix visual. We will specifically be visualizing our employee retention in the months following their start date. We'll even take it one step further and visualize employee churn by cohort!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Blog Post/PBIX Download:
+https://bielite.com/blog/creating-a-custom-timeline-matrix-in-power-bi/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-11-24T15:30:01Z";"https://www.youtube.com/watch?v=ezGQ1YxfAOU";"https://i.ytimg.com/vi/ezGQ1YxfAOU/default.jpg";"14M45S";"false";"hd"
+"XGbhdoiR-A8";"Power BI Competition #1 - Google Analytics Data";"View the Power BI report submissions from the first ever Power BI competition (November 2020) hosted on the BI Elite Training website! There were a lot of great submissions for this contests and it was difficult to choose only 3 winners. Check out these reports and gain inspiration for your next Power BI report!
+
+If you want to compete in future competitions, check out the BI Elite Contests page (https://training.bielite.com/contests/). Contests begin the first Monday of every month!
+
+Contest Winners Page:
+https://training.bielite.com/contest-1-google-analytics/
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-11-13T17:15:34Z";"https://www.youtube.com/watch?v=XGbhdoiR-A8";"https://i.ytimg.com/vi/XGbhdoiR-A8/default.jpg";"9M2S";"false";"hd"
+"t4kd-QY6Rh0";"DAX for Power BI - MTD/YTD vs Previous Years";"In this Power BI DAX tutorial, we learn how to calculate month-to-date (MTD) and year-to-date (YTD) as well as compare these calculations to last year's data. In the final step, we learn how to compare ALL years of data on the same YTD/MTD chart.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Download the PBIX:
+https://www.dropbox.com/s/9j2m5i8j8ooualc/MTD_YTD%20vs%20Previous%20Period.pbix?dl=0
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-10-28T14:30:02Z";"https://www.youtube.com/watch?v=t4kd-QY6Rh0";"https://i.ytimg.com/vi/t4kd-QY6Rh0/default.jpg";"8M18S";"false";"hd"
+"8e8a3o1w51M";"Power BI - Dynamic Axes and Legends! (Easy)";"In this Power BI tutorial, we learn how to dynamically switch between categories within visual axes and legends! This is a fun trick that will add a lot of functionality for your end users.
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+PBIX:
+https://www.dropbox.com/s/37fu94fe2xmabbb/Easy%20Dynamic%20Axis%20and%20Legends.pbix?dl=0
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-10-08T14:00:01Z";"https://www.youtube.com/watch?v=8e8a3o1w51M";"https://i.ytimg.com/vi/8e8a3o1w51M/default.jpg";"8M58S";"false";"hd"
+"KJod3LG84bk";"How to Use the New Smart Narrative Visual (Text Box) in Power BI";"In this Power BI tutorial, we learn how to use the new smart narratives visual and textbox within Power BI. This visual auto-generates AI powered text based on your data. You can even customize the message or write your own!
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2020-09-23T14:00:04Z";"https://www.youtube.com/watch?v=KJod3LG84bk";"https://i.ytimg.com/vi/KJod3LG84bk/default.jpg";"14M9S";"false";"hd"
+"pEAwvMkpA8I";"Power BI - Exclude Selections in a Slicer";"Hey guys! Parker here. Check out this fun Power BI tutorial on how to exclude slicer selections! Slicers normally work by including all of your selections within the data, however, this trick will allow you to do the opposite. This is an easy way to do exception reporting in Power BI!
+
+Link to PBIX:
+https://www.dropbox.com/s/sq5bssymjdyt44w/Exclude%20from%20Slicer%20Selection.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-05-21T14:00:14Z";"https://www.youtube.com/watch?v=pEAwvMkpA8I";"https://i.ytimg.com/vi/pEAwvMkpA8I/default.jpg";"5M58S";"false";"hd"
+"oKi7rd16TjU";"Power BI - Dynamic Chart Titles (Expression-Based Formatting #1)";"What's up guys! Parker here. Check out this sweet new Power BI tutorial on how to set up conditional formatting for chart titles! Expression based formatting is a new feature in Power BI and should be accessible in a lot of places across Power BI Desktop soon! Check it out!
+
+Link to PBIX:
+https://www.dropbox.com/s/exr6b4fz6ht10br/Channel%20Health%20-%20Dynamic%20Titles.pbix?dl=0
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-04-11T13:49:03Z";"https://www.youtube.com/watch?v=oKi7rd16TjU";"https://i.ytimg.com/vi/oKi7rd16TjU/default.jpg";"5M54S";"false";"hd"
+"DtOfcsS_pQw";"DAX for Power BI - Determining Hierarchy Level (ISINSCOPE)";"Hey guys! Parker here. Check out this quick DAX for Power BI tutorial on how to understand the level of the hierarchy you are on in a visual. This is a really easy trick to set up!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-03-05T15:00:01Z";"https://www.youtube.com/watch?v=DtOfcsS_pQw";"https://i.ytimg.com/vi/DtOfcsS_pQw/default.jpg";"8M1S";"false";"hd"
+"2SGXnYFdqu4";"Power BI - DAX Subfolder Organization and Efficient Bulk Edit";"Hey guys! Parker here. In this video, Microsoft MVP Reid Havens from the Havens Consulting YouTube Channel gives an awesome overview on how to use the new modeling view in Power BI to bulk update fields as well as group DAX measures into subfolders! Check out this awesome trick from a Power BI Pro!
+
+Link to video on how to create a DAX Measure Table:
+https://www.youtube.com/watch?v=-epmSfp4QKI
+
+Click here to download Reid's Power BI Template used in the video!
+http://www.havensconsulting.net/files-and-templates/
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2019-01-15T15:11:24Z";"https://www.youtube.com/watch?v=2SGXnYFdqu4";"https://i.ytimg.com/vi/2SGXnYFdqu4/default.jpg";"3M53S";"false";"hd"
+"DRVDYOrVdlQ";"Power BI - Explore My Youtube Data!";"What's up guys! Parker here with an awesome update! BIElite.com is now live and on it you can find my YouTube report where you can slice and dice through all the data pertaining to the YouTube channel. This has been one of my favorite Power BI Reports to build because it it gives me insights into how the channel is doing and what you are enjoying most!
+
+https://bielite.com/#try
+
+To enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-11-06T15:00:01Z";"https://www.youtube.com/watch?v=DRVDYOrVdlQ";"https://i.ytimg.com/vi/DRVDYOrVdlQ/default.jpg";"4M27S";"false";"hd"
+"S1kTTQARvVs";"Power BI - Pretty X-Axis for Hierarchies";"Hey guys! Parker here. In this Power BI tutorial, I'm going to show you how to unclutter your X-Axis labels when dealing with hierarchies. I learned this trick from Wyn Hopkins who originally posted a how-to gif on LinkedIn. Thanks Wyn!
+
+Enroll in my introductory or advanced Power BI courses:
+https://training.bielite.com/
+
+Elite Power BI Consulting:
+https://bielite.com/
+
+Data Insights Tools:
+https://www.impktful.com/
+
+Connect with me on Twitter!
+https://twitter.com/PowerBIElite";"2018-10-18T14:00:03Z";"https://www.youtube.com/watch?v=S1kTTQARvVs";"https://i.ytimg.com/vi/S1kTTQARvVs/default.jpg";"2M25S";"false";"hd"
